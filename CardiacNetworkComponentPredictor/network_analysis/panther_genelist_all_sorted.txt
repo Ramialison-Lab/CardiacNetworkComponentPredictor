@@ -1,0 +1,100 @@
+Actc1	muscle development
+Actn2	muscle development
+Akap2	cytoskeleton
+Ankrd1	muscle development
+Anxa6	muscle development
+App	ion channel activity
+Arpc2	cytoskeleton
+Atp1b1	ion channel activity
+Atp2a2	muscle development
+Atp5o	ion channel activity
+Atp6v0e	ion channel activity
+Brd7	cell cycle
+Bves	heart development
+Cald1	cytoskeleton
+Cap2	cytoskeleton
+Casq2	ion channel activity
+Cav3	muscle development
+Col18a1	blood
+Col1a1	blood
+Col1a1	muscle development
+Col3a1	blood
+Cox8b	ion channel activity
+Csnk1a1	cell cycle
+Csrp2	muscle development
+Csrp3	muscle development
+Ctnna1	cytoskeleton
+Ctnnb1	cell cycle
+Dcn	blood
+Dctn6	cytoskeleton
+Des	muscle development
+Dync1i2	cytoskeleton
+Epb4.1l3	cytoskeleton
+Fhl2	muscle development
+Gata4	heart development
+Gja1	ion channel activity
+Gja5	ion channel activity
+Gnb2l1	cell cycle
+Hand2	heart development
+Hey2	blood
+Hif1a	blood
+Hopx	heart development
+Hspa9	blood
+Id2	heart development
+Itga5	blood
+Jph2	ion channel activity
+Ldb3	muscle development
+Lmnb1	cell cycle
+Lmo7	muscle development
+Lmod2	muscle development
+Lrrfip1	cytoskeleton
+Mb	blood
+Mki67	cell cycle
+Mlip	cytoskeleton
+Mtus1	cell cycle
+Myadm	cytoskeleton
+Mybpc3	cytoskeleton
+Myh6	muscle development
+Myh7	muscle development
+Myl12a	muscle development
+Myl2	heart development
+Myl4	muscle development
+Myom1	cytoskeleton
+Nkx2-5	heart development
+Nppb	ion channel activity
+Pafah1b1	cytoskeleton
+Palld	cytoskeleton
+Parva	blood
+Pdk1	ion channel activity
+Pdlim3	muscle development
+Pln	muscle development
+Postn	blood
+Ppp2r3a	cell cycle
+Prkar1a	heart development
+Pygm	ion channel activity
+Ryr2	muscle development
+Sae1	cell cycle
+Sec31a	ion channel activity
+Sept7	cytoskeleton
+Sfrp1	cell cycle
+Slc8a1	muscle development
+Smyd1	heart development
+Sorbs2	cytoskeleton
+Sox4	heart development
+Sptbn1	cytoskeleton
+Srl	muscle development
+Stk39	ion channel activity
+Svil	cytoskeleton
+Synpo2l	cytoskeleton
+Tab2	heart development
+Tbx20	heart development
+Tcap	heart development
+Tead1	heart development
+Tmsb4x	cytoskeleton
+Tns1	cell cycle
+Tpm1	cytoskeleton
+Trim63	muscle development
+Ttn	muscle development
+Unc45b	muscle development
+Vcan	heart development
+Vdac3	ion channel activity

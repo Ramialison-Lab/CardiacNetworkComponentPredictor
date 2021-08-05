@@ -1,0 +1,97 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:87905	Actc1	actin, alpha, cardiac muscle 1	protein coding gene	2	114047282-114053548	57.55	-	
+MGI:109192	Actn2	actinin alpha 2	protein coding gene	13	12269426-12340760	4.54	-	
+MGI:87930	Adk	adenosine kinase	protein coding gene	14	21052574-21448568	11.58	+	
+MGI:1097717	Ankrd1	ankyrin repeat domain 1 (cardiac muscle)	protein coding gene	19	36111965-36119844	30.52	-	
+MGI:88059	App	amyloid beta (A4) precursor protein	protein coding gene	16	84954440-85173707	46.92	-	
+MGI:1929743	Asb2	ankyrin repeat and SOCS box-containing 2	protein coding gene	12	103321142-103356001	52.9	-	
+MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	protein coding gene	3	101576219-101604684	44.3	-	
+MGI:88108	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	protein coding gene	1	164437109-164458355	71.75	-	
+MGI:88110	Atp2a2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	protein coding gene	5	122453513-122502225	62.38	-	
+MGI:106341	Atp5o	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit	protein coding gene	16	91684398-91931687	53.26	-	
+MGI:1328318	Atp6v0e	ATPase, H+ transporting, lysosomal V0 subunit E	protein coding gene	17	26676396-26699644	13.46	+	
+MGI:1860440	Bace2	beta-site APP-cleaving enzyme 2	protein coding gene	16	97356728-97439012	57.4	+	
+MGI:1346013	Bves	blood vessel epicardial substance	protein coding gene	10	45335762-45369708	23.47	+	
+MGI:1914502	Cap2	CAP, adenylate cyclase-associated protein, 2 (yeast)	protein coding gene	13	46501848-46649642	23.83	+	
+MGI:109372	Cbx5	chromobox 5	protein coding gene	15	103191544-103239816	58.34	-	
+MGI:88467	Col1a1	collagen, type I, alpha 1	protein coding gene	11	94936224-94953042	59.01	+	
+MGI:88453	Col3a1	collagen, type III, alpha 1	protein coding gene	1	45311538-45349706	23.67	+	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	protein coding gene	10	77052178-77166548	39.72	-	
+MGI:1098297	Cpt1b	carnitine palmitoyltransferase 1b, muscle	protein coding gene	15	89416405-89425863	44.89	-	
+MGI:1934950	Csnk1a1	casein kinase 1, alpha 1	protein coding gene	18	61555274-61590061	34.62	+	
+MGI:1330824	Csrp3	cysteine and glycine-rich protein 3	protein coding gene	7	48830398-48848033	31.11	-	
+MGI:88274	Ctnna1	catenin (cadherin associated protein), alpha 1	protein coding gene	18	35118912-35254775	18.89	+	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	protein coding gene	9	120929216-120960507	72.19	+	
+MGI:105100	Ctnnd1	catenin (cadherin associated protein), delta 1	protein coding gene	2	84600071-84650765	49.45	-	
+MGI:94872	Dcn	decorin	protein coding gene	10	97479500-97518162	50.27	+	
+MGI:94876	Ddc	dopa decarboxylase	protein coding gene	11	11814101-11898044	7.09	-	
+MGI:94885	Des	desmin	protein coding gene	1	75360329-75368579	38.85	+	
+MGI:1338762	Fhl2	four and a half LIM domains 2	protein coding gene	1	43123074-43196984	22.33	-	
+MGI:95664	Gata4	GATA binding protein 4	protein coding gene	14	63198922-63271692	33.24	-	
+MGI:107516	Gata6	GATA binding protein 6	protein coding gene	18	11052510-11085635	5.63	+	
+MGI:95713	Gja1	gap junction protein, alpha 1	protein coding gene	10	56377300-56390419	28.64	+	
+MGI:95716	Gja5	gap junction protein, alpha 5	protein coding gene	3	96904693-97077416	42.04	+	
+MGI:103580	Hand2	heart and neural crest derivatives expressed transcript 2	protein coding gene	8	57320983-57324633	29.8	+	
+MGI:1341884	Hey2	hairy/enhancer-of-split related with YRPW motif 2	protein coding gene	10	30832359-30842801	17.19	-	
+MGI:106918	Hif1a	hypoxia inducible factor 1, alpha subunit	protein coding gene	12	73901375-73947530	31.99	+	
+MGI:96120	Hmgn1	high mobility group nucleosomal binding domain 1	protein coding gene	16	96120618-96127729	56.83	-	
+MGI:1916782	Hopx	HOP homeobox	protein coding gene	5	77086988-77115121	41.45	-	
+MGI:96434	Igf2	insulin-like growth factor 2	protein coding gene	7	142650766-142666816	87.99	-	
+MGI:96435	Igf2r	insulin-like growth factor 2 receptor	protein coding gene	17	12682406-12769664	8.64	-	
+MGI:894670	Ldb2	LIM domain binding 2	protein coding gene	5	44472132-44799680	24.24	-	
+MGI:1344412	Ldb3	LIM domain binding 3	protein coding gene	14	34526699-34588681	20.83	-	
+MGI:1195263	Lims1	LIM and senescent cell antigen-like domains 1	protein coding gene	10	58323466-58424691	29.31	+	
+MGI:1353586	Lmo7	LIM domain only 7	protein coding gene	14	101729957-101934710	50.9	+	
+MGI:2135672	Lmod2	leiomodin 2 (cardiac)	protein coding gene	6	24597762-24605414	11.28	+	
+MGI:96820	Lpl	lipoprotein lipase	protein coding gene	8	68880491-68907448	33.88	+	
+MGI:2448063	Lrrc10	leucine rich repeat containing 10	protein coding gene	10	117045341-117046768	65.06	+	
+MGI:96922	Mb	myoglobin	protein coding gene	15	77015487-77050668	36.36	-	
+MGI:97051	Mdh1	malate dehydrogenase 1, NAD (soluble)	protein coding gene	11	21556787-21572367	13.89	-	
+MGI:106035	Mki67	antigen identified by monoclonal antibody Ki 67	protein coding gene	7	135689784-135716361	81.32	-	
+MGI:1923786	Mmadhc	methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria	protein coding gene	2	50279881-50296801	28.92	-	
+MGI:2142572	Mtus1	mitochondrial tumor suppressor 1	protein coding gene	8	40990918-41133726	23.89	-	
+MGI:102844	Mybpc3	myosin binding protein C, cardiac	protein coding gene	2	91118144-91136516	50.44	+	
+MGI:97255	Myh6	myosin, heavy polypeptide 6, cardiac muscle, alpha	protein coding gene	14	54941981-54966927	28.01	-	
+MGI:2155600	Myh7	myosin, heavy polypeptide 7, cardiac muscle, beta	protein coding gene	14	54970688-54994634	28.01	-	
+MGI:97272	Myl2	myosin, light polypeptide 2, regulatory, cardiac, slow	protein coding gene	5	122100951-122113472	62.16	+	
+MGI:97267	Myl4	myosin, light polypeptide 4	protein coding gene	11	104550663-104595753	67.79	+	
+MGI:2138915	Myl9	myosin, light polypeptide 9, regulatory	protein coding gene	2	156775420-156781658	77.77	+	
+MGI:1341430	Myom1	myomesin 1	protein coding gene	17	71019521-71126856	41.87	+	
+MGI:1914523	Ndufa10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10	protein coding gene	1	92439010-92473860	46.4	-	
+MGI:97350	Nkx2-5	NK2 homeobox 5	protein coding gene	17	26838664-26841565	13.6	-	
+MGI:97368	Nppb	natriuretic peptide type B	protein coding gene	4	147985788-147987205	78.57	+	
+MGI:109520	Pafah1b1	platelet-activating factor acetylhydrolase, isoform 1b, subunit 1	protein coding gene	11	74673949-74724670	45.76	-	
+MGI:1919583	Palld	palladin, cytoskeletal associated protein	protein coding gene	8	61511433-61902669	31.23	-	
+MGI:1931144	Parva	parvin, alpha	protein coding gene	7	112427505-112591692	58.76	+	
+MGI:1926119	Pdk1	pyruvate dehydrogenase kinase, isoenzyme 1	protein coding gene	2	71873224-71903858	42.84	+	
+MGI:97622	Pln	phospholamban	protein coding gene	10	53337686-53345999	27.11	+	
+MGI:1926321	Postn	periostin, osteoblast specific factor	protein coding gene	3	54361109-54391037	25.46	+	
+MGI:1923392	Ppp1r14c	protein phosphatase 1, regulatory (inhibitor) subunit 14c	protein coding gene	10	3366150-3464975	2.06	+	
+MGI:2442104	Ppp2r3a	protein phosphatase 2, regulatory subunit B'', alpha	protein coding gene	9	101105084-101251795	53.19	-	
+MGI:104878	Prkar1a	protein kinase, cAMP dependent regulatory, type I, alpha	protein coding gene	11	109649405-109669656	72.33	+	
+MGI:97830	Pygm	muscle glycogen phosphorylase	protein coding gene	19	6384399-6398459	4.53	+	
+MGI:97837	Qk	quaking	protein coding gene	17	10206471-10319361	7.75	-	
+MGI:3610364	Rbm24	RNA binding motif protein 24	protein coding gene	13	46418300-46431090	23.61	+	
+MGI:1334446	Rbpms	RNA binding protein gene with multiple splicing	protein coding gene	8	33782643-33929863	20.85	-	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	protein coding gene	13	11553103-12106945	4.38	-	
+MGI:99513	Sdpr	serum deprivation response	protein coding gene	1	51289126-51302960	26.13	+	
+MGI:1335094	Sept7	septin 7	protein coding gene	9	25252439-25308571	10.25	+	
+MGI:892014	Sfrp1	secreted frizzled-related protein 1	protein coding gene	8	23411502-23449632	11.48	+	
+MGI:107956	Slc8a1	solute carrier family 8 (sodium/calcium exchanger), member 1	protein coding gene	17	81388691-81649607	51.29	-	
+MGI:104790	Smyd1	SET and MYND domain containing 1	protein coding gene	6	71213940-71322233	32.14	-	
+MGI:1915889	Smyd2	SET and MYND domain containing 2	protein coding gene	1	189880492-189922363	95.03	-	
+MGI:1924574	Sorbs2	sorbin and SH3 domain containing 2	protein coding gene	8	45507788-45827905	25.44	+	
+MGI:98366	Sox4	SRY (sex determining region Y)-box 4	protein coding gene	13	28948919-28953713	12.87	-	
+MGI:1919293	Sulf2	sulfatase 2	protein coding gene	2	166073089-166155663	86.31	-	
+MGI:1916010	Synpo2l	synaptopodin 2-like	protein coding gene	14	20658946-20668354	11.53	-	
+MGI:1915902	Tab2	TGF-beta activated kinase 1/MAP3K7 binding protein 2	protein coding gene	10	7905653-7956230	2.56	-	
+MGI:1888496	Tbx20	T-box 20	protein coding gene	9	24720812-24774303	10.25	-	
+MGI:1330233	Tcap	titin-cap	protein coding gene	11	98383811-98384953	61.75	+	
+MGI:101876	Tead1	TEA domain family member 1	protein coding gene	7	112679318-112906807	58.8	+	
+MGI:1345185	Tenm1	teneurin transmembrane protein 1	protein coding gene	X	42527866-43429126	23.21	-	
+MGI:106920	Tmpo	thymopoietin	protein coding gene	10	91147571-91171582	45.66	-	
+MGI:99510	Tmsb4x	thymosin, beta 4, X chromosome	protein coding gene	X	167207093-167209315	78.28	-	
+MGI:104552	Tns1	tensin 1	protein coding gene	1	73910232-74124449	38.17	-	
+MGI:98809	Tpm1	tropomyosin 1, alpha	protein coding gene	9	67022590-67049406	36.27	-	
+MGI:98864	Ttn	titin	protein coding gene	2	76703980-76982547	45.13	-	
+MGI:2145316	Txndc5	thioredoxin domain containing 5	protein coding gene	13	38500273-38528824	18.27	-	

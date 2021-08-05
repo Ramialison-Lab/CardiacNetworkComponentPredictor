@@ -1,0 +1,158 @@
+Actc1	cell cycle
+Actc1	cytoskeleton
+Actc1	muscle development
+Actn2	cytoskeleton
+Actn2	ion channel activity
+Actn2	muscle development
+Akap2	cytoskeleton
+Ankrd1	muscle development
+Anxa6	ion channel activity
+Anxa6	muscle development
+App	cell cycle
+App	ion channel activity
+Arpc2	cytoskeleton
+Atp1a1	ion channel activity
+Atp1a1	muscle development
+Atp1b1	ion channel activity
+Atp1b1	muscle development
+Atp2a2	cytoskeleton
+Atp2a2	ion channel activity
+Atp2a2	muscle development
+Atp5o	ion channel activity
+Atp6v0e	ion channel activity
+Brd7	cell cycle
+Bves	heart development
+Cald1	cell cycle
+Cald1	cytoskeleton
+Cald1	muscle development
+Cap2	cytoskeleton
+Casq2	ion channel activity
+Casq2	muscle development
+Cav3	cytoskeleton
+Cav3	ion channel activity
+Cav3	muscle development
+Col1a1	muscle development
+Col3a1	heart development
+Cox8b	ion channel activity
+Csnk1a1	cell cycle
+Csnk1a1	cytoskeleton
+Csrp2	muscle development
+Csrp3	cytoskeleton
+Csrp3	ion channel activity
+Csrp3	muscle development
+Ctnna1	cytoskeleton
+Ctnnb1	cell cycle
+Ctnnb1	cytoskeleton
+Ctnnb1	heart development
+Ctnnb1	ion channel activity
+Ctnnb1	muscle development
+Dctn6	cytoskeleton
+Des	cytoskeleton
+Des	muscle development
+Dync1i2	cell cycle
+Dync1i2	cytoskeleton
+Epb4.1l3	cytoskeleton
+Fhl2	muscle development
+Gata4	cytoskeleton
+Gata4	heart development
+Gata6	cell cycle
+Gja1	heart development
+Gja1	ion channel activity
+Gja5	ion channel activity
+Gja5	muscle development
+Gnb2l1	cell cycle
+Hand2	heart development
+Hey2	heart development
+Hif1a	ion channel activity
+Hopx	heart development
+Id2	cell cycle
+Id2	heart development
+Id2	ion channel activity
+Jph2	ion channel activity
+Ldb3	heart development
+Ldb3	muscle development
+Lmnb1	cell cycle
+Lmo7	muscle development
+Lmod2	cytoskeleton
+Lmod2	muscle development
+Lrrfip1	cytoskeleton
+Mb	heart development
+Mki67	cell cycle
+Mlip	cytoskeleton
+Mtus1	cell cycle
+Mtus1	cytoskeleton
+Myadm	cytoskeleton
+Mybpc3	cytoskeleton
+Mybpc3	muscle development
+Myh6	cell cycle
+Myh6	cytoskeleton
+Myh6	heart development
+Myh6	muscle development
+Myh7	cell cycle
+Myh7	cytoskeleton
+Myh7	heart development
+Myh7	muscle development
+Myl12a	muscle development
+Myl2	heart development
+Myl2	muscle development
+Myl4	muscle development
+Myom1	cytoskeleton
+Myom1	muscle development
+Nkx2-5	heart development
+Nkx2-5	ion channel activity
+Nkx2-5	muscle development
+Nppb	ion channel activity
+Pafah1b1	cell cycle
+Pafah1b1	cytoskeleton
+Palld	cytoskeleton
+Parva	cytoskeleton
+Pdk1	ion channel activity
+Pdlim3	cytoskeleton
+Pdlim3	heart development
+Pdlim3	muscle development
+Pln	ion channel activity
+Pln	muscle development
+Ppp2r3a	cell cycle
+Prkar1a	heart development
+Pygm	ion channel activity
+Ryr2	ion channel activity
+Ryr2	muscle development
+Sae1	cell cycle
+Sec31a	ion channel activity
+Sept7	cell cycle
+Sept7	cytoskeleton
+Sfrp1	cell cycle
+Sfrp1	cytoskeleton
+Slc8a1	ion channel activity
+Slc8a1	muscle development
+Smyd1	heart development
+Sorbs2	cytoskeleton
+Sox4	cell cycle
+Sox4	heart development
+Sox4	muscle development
+Sptbn1	cytoskeleton
+Srl	muscle development
+Stk39	cell cycle
+Stk39	ion channel activity
+Sulf2	muscle development
+Svil	cytoskeleton
+Synpo2l	cytoskeleton
+Tab2	heart development
+Tbx20	muscle development
+Tcap	cytoskeleton
+Tcap	heart development
+Tcap	muscle development
+Tead1	heart development
+Tmsb4x	cytoskeleton
+Tns1	cell cycle
+Tpm1	cytoskeleton
+Tpm1	muscle development
+Trim63	muscle development
+Ttn	cytoskeleton
+Ttn	heart development
+Ttn	ion channel activity
+Ttn	muscle development
+Unc45b	muscle development
+Vcan	heart development
+Vcan	muscle development
+Vdac3	ion channel activity
