@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+...CAGRGCWG....	chr12-100949805-100950805	1	499	514	family_11
+...CAGWGCWG....	chr12-100949805-100950805	1	499	514	family_11

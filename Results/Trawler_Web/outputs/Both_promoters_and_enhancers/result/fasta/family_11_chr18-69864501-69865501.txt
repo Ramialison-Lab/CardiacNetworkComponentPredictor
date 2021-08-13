@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr18-69864501-69865501	1	505	517	motif
+family_12	chr18-69864501-69865501	1	505	517	motif
+...CAGRGCYG....	chr18-69864501-69865501	1	122	137	family_11

@@ -1,0 +1,3 @@
+family_1	ff00ff
+motif	009ba5
+AGGAGRRG	chr13-89681566-89682566	1	766	774	family_1

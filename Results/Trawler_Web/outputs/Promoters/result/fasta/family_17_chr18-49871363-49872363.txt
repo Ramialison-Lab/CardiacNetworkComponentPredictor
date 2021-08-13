@@ -1,0 +1,4 @@
+family_17	ff00ff
+motif	009ba5
+AGGGARSG	chr18-49871363-49872363	1	515	523	family_17
+family_16	chr18-49871363-49872363	1	49	60	motif

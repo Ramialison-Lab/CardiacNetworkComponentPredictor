@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGARSTG....	chr10-63483068-63484068	1	788	803	family_11
+family_5	chr10-63483068-63484068	1	202	215	motif
+family_6	chr10-63483068-63484068	1	146	157	motif

@@ -1,0 +1,3 @@
+family_4	ff00ff
+motif	009ba5
+AGMCGGMCAT	chr10-6213100-6214278	1	1018	1028	family_4

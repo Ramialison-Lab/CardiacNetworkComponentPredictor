@@ -1,0 +1,4 @@
+family_6	ff00ff
+motif	009ba5
+family_8	chr13-94089924-94091000	1	364	376	motif
+CAGCTSCW...	chr13-94089924-94091000	1	347	358	family_6

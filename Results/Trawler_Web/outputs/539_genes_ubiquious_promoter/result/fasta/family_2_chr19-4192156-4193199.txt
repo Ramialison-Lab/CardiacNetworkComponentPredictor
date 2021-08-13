@@ -1,0 +1,6 @@
+family_2	ff00ff
+motif	009ba5
+..ACCSGMCG....	chr19-4192156-4193199	1	538	552	family_2
+family_1	chr19-4192156-4193199	1	1018	1030	motif
+family_1	chr19-4192156-4193199	1	1078	1090	motif
+family_1	chr19-4192156-4193199	1	419	431	motif

@@ -1,0 +1,5 @@
+family_14	ff00ff
+motif	009ba5
+CATCARCMACC	chr8-64155800-64156927	1	379	390	family_14
+family_10	chr8-64155800-64156927	1	160	170	motif
+family_10	chr8-64155800-64156927	1	160	170	motif

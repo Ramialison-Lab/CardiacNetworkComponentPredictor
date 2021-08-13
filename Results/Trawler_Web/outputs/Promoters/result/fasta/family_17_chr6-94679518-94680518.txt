@@ -1,0 +1,3 @@
+family_17	ff00ff
+motif	009ba5
+AGGSARGG	chr6-94679518-94680518	1	192	200	family_17

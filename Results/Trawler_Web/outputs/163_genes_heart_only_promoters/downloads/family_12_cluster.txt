@@ -1,0 +1,4 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CTCYCCMCAG	family_12	13.168963	15	10	1
+CTCYCYACAG	family_12	12.997807	14	9	1
+CTCYCCRCAG	family_12	12.697031	10	5	1

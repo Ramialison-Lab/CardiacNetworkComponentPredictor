@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+AATGGYTCAGAK	family_21	14.270282	10	4	1
+AATGGCTSAGAK	family_21	14.270282	10	4	1

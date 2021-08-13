@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+...GAAGGTTY	chr12-25757400-25758700	1	560	571	family_16
+family_17	chr12-25757400-25758700	1	1072	1083	motif

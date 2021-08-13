@@ -1,0 +1,5 @@
+family_22	ff00ff
+motif	009ba5
+family_17	chr3-96879958-96880958	1	644	654	motif
+family_8	chr3-96879958-96880958	1	72	83	motif
+GGGAGKGSCC...	chr3-96879958-96880958	1	33	46	family_22

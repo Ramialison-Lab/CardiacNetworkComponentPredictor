@@ -1,0 +1,3 @@
+family_9	ff00ff
+motif	009ba5
+AATGGCGRMG.	chr16-37684608-37685624	1	791	802	family_9

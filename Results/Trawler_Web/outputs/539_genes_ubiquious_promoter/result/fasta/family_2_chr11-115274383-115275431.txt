@@ -1,0 +1,5 @@
+family_2	ff00ff
+motif	009ba5
+.ACCCGCSS.....	chr11-115274383-115275431	1	501	515	family_2
+family_4	chr11-115274383-115275431	1	500	511	motif
+family_1	chr11-115274383-115275431	1	432	444	motif

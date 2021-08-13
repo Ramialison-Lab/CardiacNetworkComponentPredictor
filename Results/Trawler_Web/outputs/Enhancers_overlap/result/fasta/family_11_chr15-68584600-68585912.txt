@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGRGCTK....	chr15-68584600-68585912	1	97	112	family_11
+...CAGWGCTK....	chr15-68584600-68585912	1	97	112	family_11
+...CAGAGSTK....	chr15-68584600-68585912	1	97	112	family_11

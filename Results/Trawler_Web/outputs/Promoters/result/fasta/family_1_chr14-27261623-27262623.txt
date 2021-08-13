@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+family_17	chr14-27261623-27262623	1	694	702	motif
+AGGAGSRG	chr14-27261623-27262623	1	554	562	family_1
+family_16	chr14-27261623-27262623	1	484	495	motif

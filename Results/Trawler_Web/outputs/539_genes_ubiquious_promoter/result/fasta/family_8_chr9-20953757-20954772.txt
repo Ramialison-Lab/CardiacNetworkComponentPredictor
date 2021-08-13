@@ -1,0 +1,3 @@
+family_8	ff00ff
+motif	009ba5
+ACGCCKGGAS	chr9-20953757-20954772	1	49	59	family_8

@@ -1,0 +1,5 @@
+family_12	ff00ff
+motif	009ba5
+CAGWGRCA....	chr7-16516500-16518200	1	600	612	family_12
+family_21	chr7-16516500-16518200	1	1347	1359	motif
+family_21	chr7-16516500-16518200	1	1347	1359	motif

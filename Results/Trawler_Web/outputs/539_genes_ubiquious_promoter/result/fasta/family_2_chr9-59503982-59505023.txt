@@ -1,0 +1,7 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCSRC....	chr9-59503982-59505023	1	63	77	family_2
+..ACCSSGCC....	chr9-59503982-59505023	1	113	127	family_2
+..ACCSGSCC....	chr9-59503982-59505023	1	113	127	family_2
+family_7	chr9-59503982-59505023	1	583	593	motif
+family_1	chr9-59503982-59505023	1	581	593	motif

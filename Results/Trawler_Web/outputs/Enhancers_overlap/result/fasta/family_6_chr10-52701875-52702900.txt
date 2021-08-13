@@ -1,0 +1,5 @@
+family_6	ff00ff
+motif	009ba5
+family_11	chr10-52701875-52702900	1	1039	1054	motif
+family_11	chr10-52701875-52702900	1	574	589	motif
+CAGCTSCW...	chr10-52701875-52702900	1	395	406	family_6

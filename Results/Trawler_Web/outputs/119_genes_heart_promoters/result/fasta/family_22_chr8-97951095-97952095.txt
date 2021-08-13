@@ -1,0 +1,5 @@
+family_22	ff00ff
+motif	009ba5
+.ARAGGCMGC..	chr8-97951095-97952095	1	479	491	family_22
+family_12	chr8-97951095-97952095	1	75	87	motif
+family_24	chr8-97951095-97952095	1	73	83	motif

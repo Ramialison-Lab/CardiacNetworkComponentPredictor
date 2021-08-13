@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr4-10241996-10242996	1	250	262	motif
+family_12	chr4-10241996-10242996	1	250	262	motif
+...CARKGCTG....	chr4-10241996-10242996	1	381	396	family_11
+...CARRGCTG....	chr4-10241996-10242996	1	381	396	family_11

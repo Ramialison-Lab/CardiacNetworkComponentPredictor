@@ -1,0 +1,3 @@
+family_19	ff00ff
+motif	009ba5
+.WCTCMGAGAG	chr10-45058222-45059222	1	581	592	family_19

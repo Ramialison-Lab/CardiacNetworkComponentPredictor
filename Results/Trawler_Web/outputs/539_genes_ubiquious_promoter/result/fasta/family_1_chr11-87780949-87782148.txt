@@ -1,0 +1,3 @@
+family_1	ff00ff
+motif	009ba5
+.ACCSGGMG...	chr11-87780949-87782148	1	541	553	family_1

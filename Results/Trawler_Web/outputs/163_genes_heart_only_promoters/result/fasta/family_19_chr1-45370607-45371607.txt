@@ -1,0 +1,4 @@
+family_19	ff00ff
+motif	009ba5
+CACTCARAGM.	chr1-45370607-45371607	1	119	130	family_19
+family_9	chr1-45370607-45371607	1	428	439	motif

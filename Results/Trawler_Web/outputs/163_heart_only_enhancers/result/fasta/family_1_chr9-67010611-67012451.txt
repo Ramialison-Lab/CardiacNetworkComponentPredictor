@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+family_18	chr9-67010611-67012451	1	1348	1358	motif
+family_18	chr9-67010611-67012451	1	1348	1358	motif
+CTCCTGCMCTS	chr9-67010611-67012451	1	36	47	family_1

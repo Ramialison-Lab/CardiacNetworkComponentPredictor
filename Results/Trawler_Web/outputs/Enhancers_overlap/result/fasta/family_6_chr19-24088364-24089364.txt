@@ -1,0 +1,4 @@
+family_6	ff00ff
+motif	009ba5
+family_11	chr19-24088364-24089364	1	611	626	motif
+CAGCTSCW...	chr19-24088364-24089364	1	617	628	family_6

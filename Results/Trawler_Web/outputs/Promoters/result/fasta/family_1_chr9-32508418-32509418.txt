@@ -1,0 +1,4 @@
+family_1	ff00ff
+motif	009ba5
+AGGAGRRG	chr9-32508418-32509418	1	440	448	family_1
+family_16	chr9-32508418-32509418	1	564	575	motif

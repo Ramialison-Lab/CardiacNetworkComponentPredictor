@@ -1,0 +1,38 @@
+$ trawler.pl -sample /mnt/public_html/0x3C770A2EE9E211EB8769BE66BDAD1034/163genes_Enhancer_heart_only.bed -org mm9 -strand double -mlength 8 -overlap 70 -class vertebrates -dir_id 0x3C770A2EE9E211EB8769BE66BDAD1034 -phastcon 1 -masked 1
+
+command line options
+====================
+
+sample=/mnt/public_html/0x3C770A2EE9E211EB8769BE66BDAD1034/163genes_Enhancer_heart_only.bed
+org=mm9
+strand=double
+mlength=8
+overlap=70
+class=vertebrates
+dir_id=0x3C770A2EE9E211EB8769BE66BDAD1034
+
+default options
+===============
+
+[motif discovery]
+occurrence=10
+wildcard=2
+
+[clustering]
+motif_number=200
+nb_of_cluster=0
+
+[visualization]
+directory=/mnt/public_html/0x3C770A2EE9E211EB8769BE66BDAD1034
+xtralen=0
+clustering=1
+web=1
+
+pipeline
+========
+
+trawler.pl => 17 seconds
+pipeline_trawler_01_som.pl => 2 minutes, 8 seconds
+pipeline_trawler_02.pl => 4 seconds
+pipeline_trawler_03.pl => NA
+Elapsed time => 2 minutes, 29 seconds

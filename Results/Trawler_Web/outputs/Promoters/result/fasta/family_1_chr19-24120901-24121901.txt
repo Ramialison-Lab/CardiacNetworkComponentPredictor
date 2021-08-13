@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+AGGARGRG	chr19-24120901-24121901	1	572	580	family_1
+family_16	chr19-24120901-24121901	1	199	210	motif
+family_16	chr19-24120901-24121901	1	634	645	motif

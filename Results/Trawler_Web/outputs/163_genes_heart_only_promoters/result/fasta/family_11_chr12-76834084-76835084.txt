@@ -1,0 +1,3 @@
+family_11	ff00ff
+motif	009ba5
+..CWGYCTCT..	chr12-76834084-76835084	1	448	460	family_11

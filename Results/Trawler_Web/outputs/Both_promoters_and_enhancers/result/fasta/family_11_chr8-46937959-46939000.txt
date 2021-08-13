@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGWGSTG....	chr8-46937959-46939000	1	210	225	family_11
+...CAGRGCWG....	chr8-46937959-46939000	1	800	815	family_11
+family_8	chr8-46937959-46939000	1	214	226	motif

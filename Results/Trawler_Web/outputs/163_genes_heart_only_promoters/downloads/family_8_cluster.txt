@@ -1,0 +1,10 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+..CWGCMTGCG	family_8	14.051041	11	5	1
+AGCYGCCAR..	family_8	12.677727	16	12	1
+..CAGCWKGCG	family_8	12.849107	13	8	1
+..CWGCKGGCG	family_8	15.405103	12	5	1
+...AGGCTGNG	family_8	12.213789	76	178	1
+..CAGCYKGCG	family_8	12.672758	11	6	1
+..CAGCMTRCG	family_8	18.575472	11	3	1
+..CMSCTGGCG	family_8	18.575472	11	3	1
+..CMGCKGGCG	family_8	18.575472	11	3	1

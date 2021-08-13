@@ -1,0 +1,5 @@
+family_18	ff00ff
+motif	009ba5
+family_11	chr10-57856773-57857773	1	453	465	motif
+family_8	chr10-57856773-57857773	1	263	274	motif
+.TGMTGSCG..	chr10-57856773-57857773	1	356	367	family_18

@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+..CWGCCTYT..	chr9-24570686-24571686	1	211	223	family_11
+..CWGCCTYT..	chr9-24570686-24571686	1	858	870	family_11
+family_8	chr9-24570686-24571686	1	464	475	motif

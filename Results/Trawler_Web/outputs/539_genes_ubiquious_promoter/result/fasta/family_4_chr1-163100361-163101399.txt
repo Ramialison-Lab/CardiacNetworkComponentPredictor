@@ -1,0 +1,3 @@
+family_4	ff00ff
+motif	009ba5
+.AASCSGCG..	chr1-163100361-163101399	1	453	464	family_4

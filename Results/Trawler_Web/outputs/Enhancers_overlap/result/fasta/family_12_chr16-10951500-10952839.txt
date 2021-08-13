@@ -1,0 +1,4 @@
+family_12	ff00ff
+motif	009ba5
+CAGRGRCA....	chr16-10951500-10952839	1	286	298	family_12
+family_6	chr16-10951500-10952839	1	798	809	motif

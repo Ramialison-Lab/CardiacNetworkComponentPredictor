@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+family_8	chr13-46509024-46510024	1	257	268	motif
+CCTTCCARMT	chr13-46509024-46510024	1	262	272	family_16

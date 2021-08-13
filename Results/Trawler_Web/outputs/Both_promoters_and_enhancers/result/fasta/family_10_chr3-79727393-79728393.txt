@@ -1,0 +1,4 @@
+family_10	ff00ff
+motif	009ba5
+family_11	chr3-79727393-79728393	1	653	668	motif
+CACAGRRAGGCT	chr3-79727393-79728393	1	381	393	family_10

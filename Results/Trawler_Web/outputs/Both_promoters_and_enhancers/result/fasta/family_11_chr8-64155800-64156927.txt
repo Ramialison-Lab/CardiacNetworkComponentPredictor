@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CARWGCTG....	chr8-64155800-64156927	1	894	909	family_11
+...CARRGCTG....	chr8-64155800-64156927	1	894	909	family_11
+family_5	chr8-64155800-64156927	1	660	673	motif

@@ -1,0 +1,5 @@
+family_9	ff00ff
+motif	009ba5
+CAGARGTGASA	chr12-74966100-74967339	1	163	174	family_9
+family_13	chr12-74966100-74967339	1	301	311	motif
+family_13	chr12-74966100-74967339	1	301	311	motif

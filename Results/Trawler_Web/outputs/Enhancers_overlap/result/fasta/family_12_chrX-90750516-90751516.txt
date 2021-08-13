@@ -1,0 +1,5 @@
+family_12	ff00ff
+motif	009ba5
+CAGWGRCA....	chrX-90750516-90751516	1	689	701	family_12
+CAGRGRCA....	chrX-90750516-90751516	1	689	701	family_12
+family_11	chrX-90750516-90751516	1	500	515	motif

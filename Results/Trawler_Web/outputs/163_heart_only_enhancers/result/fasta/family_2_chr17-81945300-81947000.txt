@@ -1,0 +1,5 @@
+family_2	ff00ff
+motif	009ba5
+family_16	chr17-81945300-81947000	1	768	779	motif
+family_16	chr17-81945300-81947000	1	855	866	motif
+GCWCTGGAWT	chr17-81945300-81947000	1	393	403	family_2

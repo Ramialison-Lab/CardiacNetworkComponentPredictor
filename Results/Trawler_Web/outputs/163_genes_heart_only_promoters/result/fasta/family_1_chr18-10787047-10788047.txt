@@ -1,0 +1,4 @@
+family_1	ff00ff
+motif	009ba5
+AASAWAAACC.	chr18-10787047-10788047	1	254	265	family_1
+family_8	chr18-10787047-10788047	1	648	659	motif

@@ -1,0 +1,6 @@
+family_9	ff00ff
+motif	009ba5
+family_17	chrX-6154048-6155048	1	343	351	motif
+AGCAGCGCMW	chrX-6154048-6155048	1	885	895	family_9
+family_8	chrX-6154048-6155048	1	283	294	motif
+family_16	chrX-6154048-6155048	1	561	572	motif

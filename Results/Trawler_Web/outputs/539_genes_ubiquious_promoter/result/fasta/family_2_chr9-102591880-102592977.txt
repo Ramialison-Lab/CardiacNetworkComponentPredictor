@@ -1,0 +1,5 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCGRM....	chr9-102591880-102592977	1	586	600	family_2
+family_8	chr9-102591880-102592977	1	663	673	motif
+family_8	chr9-102591880-102592977	1	663	673	motif

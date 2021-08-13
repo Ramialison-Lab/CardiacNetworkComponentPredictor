@@ -1,0 +1,3 @@
+family_11	ff00ff
+motif	009ba5
+...CAGWGSTG....	chr13-114316466-114317700	1	875	890	family_11

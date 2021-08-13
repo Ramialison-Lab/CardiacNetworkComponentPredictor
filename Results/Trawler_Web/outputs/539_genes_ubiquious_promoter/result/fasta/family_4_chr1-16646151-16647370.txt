@@ -1,0 +1,6 @@
+family_4	ff00ff
+motif	009ba5
+family_2	chr1-16646151-16647370	1	788	802	motif
+family_2	chr1-16646151-16647370	1	767	781	motif
+family_2	chr1-16646151-16647370	1	767	781	motif
+.AASCSGCG..	chr1-16646151-16647370	1	357	368	family_4

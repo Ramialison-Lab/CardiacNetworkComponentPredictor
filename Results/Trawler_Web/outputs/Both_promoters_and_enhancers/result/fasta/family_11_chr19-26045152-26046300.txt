@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr19-26045152-26046300	1	208	220	motif
+...CAGRGCWG....	chr19-26045152-26046300	1	503	518	family_11
+family_6	chr19-26045152-26046300	1	480	491	motif

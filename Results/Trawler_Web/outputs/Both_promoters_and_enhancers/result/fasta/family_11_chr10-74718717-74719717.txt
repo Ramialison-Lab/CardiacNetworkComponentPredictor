@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+...CAGRGCWG....	chr10-74718717-74719717	1	515	530	family_11
+family_8	chr10-74718717-74719717	1	395	407	motif

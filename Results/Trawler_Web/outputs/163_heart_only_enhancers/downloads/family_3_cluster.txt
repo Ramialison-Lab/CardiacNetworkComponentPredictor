@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+ATCAGGCTGY	family_3	12.722019	11	6	1
+ATCRGGCTGY	family_3	12.722019	11	6	1

@@ -1,0 +1,3 @@
+family_5	ff00ff
+motif	009ba5
+AAAATAGCYCY	chr5-150882771-150883771	1	964	975	family_5

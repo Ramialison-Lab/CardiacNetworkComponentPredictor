@@ -1,0 +1,92 @@
+<table class="table center-block pwm" id="pwm"><thead><tr><th><h2>family_2</h2></th></tr></thead> <tbody><tr><td><img alt="images/family_2_all_motif.png" src="images/family_2_all_motif.png" /></td></tr> <tr><td><a href="downloads/family_2_pwm.txt" rel="external" target="blank">Download PWM</a></td></tr> <tr><td><a href="downloads/family_2_cluster.txt" rel="external" target="blank">Download instances (motifs)</a></td></tr> <tr><td><a href="#/" id="txt-family_2" onclick="showPlot_family_2();">Show motif distribution</a></td></tr></tbody></table><div id="plot-family_2" style="width:600px;height:330px;display:none" class="center-block"></div><br />
+
+
+<script language="javascript" type="text/javascript">
+var loaded_family_2 = false;
+
+
+function showPlot_family_2() {
+    var x = document.getElementById("plot-family_2");
+    var y = document.getElementById("txt-family_2");
+    if (x.style.display === "none") { 
+        x.style.display = "block";
+        y.innerHTML = "Hide motif distribution"
+      } else { 
+        x.style.display = "none";
+        y.innerHTML = "Show motif distribution"
+      }
+    if (loaded_family_2==false) {
+      var fdata = [[0,4],[1,0],[2,3],[3,2],[4,3],[5,1],[6,4],[7,1],[8,1],[9,1]];
+
+      $.plot($("#plot-family_2"),[{
+        color:"#682678",
+        data:fdata,bars:{show: true}}],
+        {xaxis:{
+          tickFormatter:function(v,axis){return v * 10},
+          axisLabel: "Sequence Length (%)",
+          axisLabelUseCanvas: true,
+          axisLabelFontSizePixels: 13,
+          axisLabelFontFamily: "'Helvetica Neue', Helvetica, Arial",
+          axisLabelPadding: 20
+        },yaxis:{
+          axisLabel: "Number of Motifs",
+          axisLabelUseCanvas: true,
+          axisLabelFontSizePixels: 13,
+          axisLabelFontFamily: "'Helvetica Neue', Helvetica, Arial",
+          axisLabelPadding: 15,
+        },grid: {
+        hoverable: true,
+        clickable: true
+        }
+      });
+
+
+       var previousPoint = null, previousLabel = null;
+
+      $.fn.UseTooltip = function () {
+            $(this).bind("plothover", function (event, pos, item) {
+                if (item) {
+                    if ((previousLabel != item.series.label) || (previousPoint != item.dataIndex)) {
+                        previousPoint = item.dataIndex;
+                        previousLabel = item.series.label;
+                        $("#tooltip").remove();
+ 
+                        var x = item.datapoint[0];
+                        var y = item.datapoint[1];
+ 
+                        var color = item.series.color;
+ 
+                        //console.log(item.series.xaxis.ticks[x].label);                
+ 
+                        showTooltip(item.pageX, item.pageY, color, y);
+                    }
+                } else {
+                    $("#tooltip").remove();
+                    previousPoint = null;
+                }
+            });
+        };
+ 
+        function showTooltip(x, y, color, contents) {
+            $('<div id="tooltip">' + contents + '</div>').css({
+                position: 'absolute',
+                display: 'none',
+                top: y - 25,
+                left: x + 5,
+                border: '2px solid ' + color,
+                padding: '3px',
+                'font-size': '9px',
+                'border-radius': '5px',
+                'background-color': '#fff',
+                'font-family': 'Verdana, Arial, Helvetica, Tahoma, sans-serif',
+                opacity: 0.9
+            }).appendTo("body").fadeIn(200);
+        }
+
+        $("#plot-family_2").UseTooltip();
+
+      loaded_family_2 = true;
+    }
+};
+</script>
+<br/><h3>Hits against transcription factor databases</h3><br><table class="table table-striped table-hover table-bordered HATFD" id="family_2Tf"><thead><tr><th><div title="Name of the input family matrix (query)">Query_ID</div></th> <th><div title="Consensus of the query matrix">Query_Consensus</div></th> <th><div title="Name of the hit matrix with divergence smaller than the given cutoff (subject)">Subject_Name</div></th> <th><div title="Source database of the subject matrix">Source_DB</div></th> <th><div title="Database ID of the subject matrix">Subject_ID</div></th> <th><div title="Length of the consensus sequence of the subject matrix">Length</div></th> <th><div title="Orientation between query and subject matrices ">Orientation</div></th> <th><div title="Shift between query and subject matrices">Offset</div></th> <th><div title="Dissimilarity score between query and subject matrices">Divergence</div></th> <th><div title="Overlap between query and subject matrices">Overlap</div></th> <th><div title="Consensus sequence of the subject matrix">Subject_Consensus</div></th></tr></thead><tbody /></table><br/><h3>Occurrences of the motif in the input sequences</h3><br /><table class="table table-striped table-hover table-bordered HATFD" id="family_2Occ"><thead><tr><th><div title="Click on the sequence name to view the motif in UCSC">Sequence</div></th> <th><div title="Start position of the motif within the sequence (from start)">Start_position (from start)</div></th> <th><div title="Start position of the motif within the sequence (from end)">Start_position (from end)</div></th> <th><div title="Average conservation of the whole sequence">Average conservation</div></th> <th><div title="Best conservation score of the motif within this sequence">Best conservation score</div></th> <th><div title="Consensus sequence of the instance of the motif with best conservation score">Instance_with_best_CS</div></th> <th><div title="Best Z-score of the motif within this sequence">Best_Z-score</div></th> <th><div title="Consensus sequence of the instance of the motif with best Z-score">Instance_with_best_ZS</div></th> <th><div title="Strand: 1=forward, -1=reverse">Strand</div></th></tr></thead><tbody><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1%3A43202002-43202012" target="blank" title="Display in UCSC">chr1:43201300-43203046</a></td> <td>702</td> <td>712</td> <td>0.0041</td> <td>0.023</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr11%3A21462042-21462052" target="blank" title="Display in UCSC">chr11:21460935-21462500</a></td> <td>1107</td> <td>1117</td> <td>0.0433</td> <td>0.072</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCTCKGGAWT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7%3A56094828-56094838" target="blank" title="Display in UCSC">chr7:56094100-56096800</a></td> <td>728</td> <td>738</td> <td>1</td> <td>1</td> <td>GCWCTGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6%3A24496931-24496941" target="blank" title="Display in UCSC">chr6:24495900-24497070</a></td> <td>1031</td> <td>1041</td> <td>0.0086</td> <td>0.019</td> <td>GCWCKGGAAT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr8%3A46683399-46683409" target="blank" title="Display in UCSC">chr8:46682700-46684400</a></td> <td>699</td> <td>709</td> <td>0.0059</td> <td>0.019</td> <td>GCTCKGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14%3A55627472-55627482" target="blank" title="Display in UCSC">chr14:55626500-55627900</a></td> <td>972</td> <td>982</td> <td>0.0008</td> <td>0.003</td> <td>GCTCKGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr3%3A122730997-122731007" target="blank" title="Display in UCSC">chr3:122730300-122731421</a></td> <td>697</td> <td>707</td> <td>0.0096</td> <td>0.033</td> <td>GCWCTGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr4%3A133850644-133850654" target="blank" title="Display in UCSC">chr4:133849659-133851500</a></td> <td>985</td> <td>995</td> <td>0.0945</td> <td>0.104</td> <td>GCWCKGGAAT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr9%3A66876788-66876798" target="blank" title="Display in UCSC">chr9:66876700-66878106</a></td> <td>88</td> <td>98</td> <td>0.0193</td> <td>0.042</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14%3A63878491-63878501" target="blank" title="Display in UCSC">chr14:63877471-63879000</a></td> <td>1020</td> <td>1030</td> <td>0.014</td> <td>0.039</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr11%3A109541516-109541526" target="blank" title="Display in UCSC">chr11:109541300-109544000</a></td> <td>216</td> <td>226</td> <td>0.0174</td> <td>0.034</td> <td>GCTCKGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2%3A49926638-49926648" target="blank" title="Display in UCSC">chr2:49926100-49928200</a></td> <td>538</td> <td>548</td> <td>0.0003</td> <td>0.001</td> <td>GCTCKGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7%3A148087156-148087166" target="blank" title="Display in UCSC">chr7:148085400-148087600</a></td> <td>1756</td> <td>1766</td> <td>0</td> <td>0</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18%3A10850909-10850919" target="blank" title="Display in UCSC">chr18:10850412-10851600</a></td> <td>497</td> <td>507</td> <td>0.0204</td> <td>0.037</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCTCKGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr17%3A81945693-81945703" target="blank" title="Display in UCSC">chr17:81945300-81947000</a></td> <td>393</td> <td>403</td> <td>0.0011</td> <td>0.003</td> <td>GCWCTGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2%3A74808134-74808144" target="blank" title="Display in UCSC">chr2:74808000-74809351</a></td> <td>134</td> <td>144</td> <td>0.0762</td> <td>0.124</td> <td>GCTCKGGAWT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>-1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr8%3A64399741-64399751" target="blank" title="Display in UCSC">chr8:64399000-64401110</a></td> <td>741</td> <td>751</td> <td>0.0116</td> <td>0.028</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCTCKGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr13%3A12477273-12477283" target="blank" title="Display in UCSC">chr13:12476595-12478103</a></td> <td>678</td> <td>688</td> <td>0.0071</td> <td>0.012</td> <td>GCWCKGGAAT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18%3A5077190-5077200" target="blank" title="Display in UCSC">chr18:5073600-5077590</a></td> <td>3590</td> <td>3600</td> <td>0.0064</td> <td>0.012</td> <td>GCWCTGGAWT</td> <td>12.722019</td> <td>GCWCKGGAAT</td> <td>1</td></tr><tr><td><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18%3A11401977-11401987" target="blank" title="Display in UCSC">chr18:11401797-11404300</a></td> <td>180</td> <td>190</td> <td>0.0073</td> <td>0.019</td> <td>GCWCKGGAAT</td> <td>12.261244</td> <td>GCWCTGGAWT</td> <td>1</td></tr></tbody></table><br/>

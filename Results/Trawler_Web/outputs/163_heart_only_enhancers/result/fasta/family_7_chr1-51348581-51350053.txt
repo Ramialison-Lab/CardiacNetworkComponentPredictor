@@ -1,0 +1,4 @@
+family_7	ff00ff
+motif	009ba5
+family_16	chr1-51348581-51350053	1	119	130	motif
+SCAKGGCTCTG.	chr1-51348581-51350053	1	1178	1190	family_7

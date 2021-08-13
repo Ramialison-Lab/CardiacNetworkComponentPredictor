@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCSGCCS....	chr14-55045051-55046367	1	849	863	family_2
+..ACCSGSCC....	chr14-55045051-55046367	1	849	863	family_2

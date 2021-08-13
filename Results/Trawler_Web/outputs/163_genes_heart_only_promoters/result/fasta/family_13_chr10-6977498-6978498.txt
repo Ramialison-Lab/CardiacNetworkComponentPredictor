@@ -1,0 +1,7 @@
+family_13	ff00ff
+motif	009ba5
+.CCCMMCCC...	chr10-6977498-6978498	1	487	499	family_13
+family_11	chr10-6977498-6978498	1	63	75	motif
+family_11	chr10-6977498-6978498	1	63	75	motif
+family_16	chr10-6977498-6978498	1	430	440	motif
+family_16	chr10-6977498-6978498	1	430	440	motif

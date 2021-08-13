@@ -1,0 +1,3 @@
+family_9	ff00ff
+motif	009ba5
+CAGARGTGASA	chr8-64373826-64374826	1	72	83	family_9

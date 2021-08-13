@@ -1,0 +1,3 @@
+family_5	ff00ff
+motif	009ba5
+.CTMAAWATAG.	chr3-95764000-95766500	1	1430	1442	family_5

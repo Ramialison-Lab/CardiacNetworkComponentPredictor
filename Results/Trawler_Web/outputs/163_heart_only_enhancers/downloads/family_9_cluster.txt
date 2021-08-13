@@ -1,0 +1,4 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CAKARGTGACA	family_9	12.745775	10	5	1
+CAGARGTGACW	family_9	14.438022	10	4	1
+CAGARGTGASA	family_9	12.722097	11	6	1

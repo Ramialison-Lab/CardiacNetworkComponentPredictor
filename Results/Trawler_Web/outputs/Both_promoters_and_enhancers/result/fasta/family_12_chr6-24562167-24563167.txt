@@ -1,0 +1,6 @@
+family_12	ff00ff
+motif	009ba5
+CAGWGRCA....	chr6-24562167-24563167	1	984	996	family_12
+family_11	chr6-24562167-24563167	1	425	440	motif
+family_8	chr6-24562167-24563167	1	987	999	motif
+family_8	chr6-24562167-24563167	1	987	999	motif

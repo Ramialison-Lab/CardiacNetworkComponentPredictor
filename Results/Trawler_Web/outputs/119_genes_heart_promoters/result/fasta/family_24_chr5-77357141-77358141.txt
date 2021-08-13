@@ -1,0 +1,4 @@
+family_24	ff00ff
+motif	009ba5
+CCTCCKKCC.	chr5-77357141-77358141	1	280	290	family_24
+family_4	chr5-77357141-77358141	1	509	517	motif

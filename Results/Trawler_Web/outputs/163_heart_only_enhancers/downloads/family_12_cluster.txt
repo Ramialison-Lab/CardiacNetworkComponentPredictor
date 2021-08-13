@@ -1,0 +1,5 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+TAKCYGAGTG	family_12	12.745697	10	5	1
+TAKYTGAGTG	family_12	17.377302	16	7	1
+TAKCKGAGTG	family_12	12.745697	10	5	1
+TAKCTGAGTG	family_12	12.745697	10	5	1

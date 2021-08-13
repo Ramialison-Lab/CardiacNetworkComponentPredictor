@@ -1,0 +1,3 @@
+family_10	ff00ff
+motif	009ba5
+CTTYGGAWTG	chr2-68295192-68296900	1	642	652	family_10

@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGYSGC....	chr2-32501770-32503013	1	710	724	family_2
+..ACCGCSGM....	chr2-32501770-32503013	1	440	454	family_2

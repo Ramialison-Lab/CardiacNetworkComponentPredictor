@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+...CAGAKSTG....	chr2-106492466-106493500	1	682	697	family_11
+...CAGAGSTS....	chr2-106492466-106493500	1	595	610	family_11

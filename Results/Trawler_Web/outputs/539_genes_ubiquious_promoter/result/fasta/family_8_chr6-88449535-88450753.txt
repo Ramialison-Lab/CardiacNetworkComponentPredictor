@@ -1,0 +1,6 @@
+family_8	ff00ff
+motif	009ba5
+family_2	chr6-88449535-88450753	1	764	778	motif
+family_2	chr6-88449535-88450753	1	796	810	motif
+family_2	chr6-88449535-88450753	1	764	778	motif
+ACGCCGSS..	chr6-88449535-88450753	1	611	621	family_8

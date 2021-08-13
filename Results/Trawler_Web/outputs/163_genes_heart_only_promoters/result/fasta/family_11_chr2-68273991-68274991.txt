@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+..CAGCCYYT..	chr2-68273991-68274991	1	654	666	family_11
+family_9	chr2-68273991-68274991	1	166	177	motif

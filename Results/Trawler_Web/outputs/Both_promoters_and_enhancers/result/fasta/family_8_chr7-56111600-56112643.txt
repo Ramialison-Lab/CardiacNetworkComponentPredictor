@@ -1,0 +1,6 @@
+family_8	ff00ff
+motif	009ba5
+family_11	chr7-56111600-56112643	1	508	523	motif
+family_11	chr7-56111600-56112643	1	439	454	motif
+family_11	chr7-56111600-56112643	1	508	523	motif
+...CAGTSACW.	chr7-56111600-56112643	1	469	481	family_8

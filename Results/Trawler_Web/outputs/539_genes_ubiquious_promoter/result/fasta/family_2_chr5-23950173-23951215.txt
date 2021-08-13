@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCSRC....	chr5-23950173-23951215	1	991	1005	family_2
+..ACCGCSRC....	chr5-23950173-23951215	1	1051	1065	family_2

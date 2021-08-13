@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+family_13	chr10-61799459-61800459	1	491	499	motif
+CCTGCNCCCT	chr10-61799459-61800459	1	108	118	family_2

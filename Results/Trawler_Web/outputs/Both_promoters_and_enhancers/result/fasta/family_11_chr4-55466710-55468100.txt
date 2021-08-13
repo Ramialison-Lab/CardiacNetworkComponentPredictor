@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+...CASWGCTG....	chr4-55466710-55468100	1	282	297	family_11
+...CASKGCTG....	chr4-55466710-55468100	1	282	297	family_11
+family_8	chr4-55466710-55468100	1	286	298	motif
+family_8	chr4-55466710-55468100	1	286	298	motif

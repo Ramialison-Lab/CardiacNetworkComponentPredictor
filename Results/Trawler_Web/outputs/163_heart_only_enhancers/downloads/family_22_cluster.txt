@@ -1,0 +1,5 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CCTTRGATYA	family_22	12.745697	10	5	1
+CCTTKGATYA	family_22	12.745697	10	5	1
+CCTTGGAYYA	family_22	12.745697	10	5	1
+CCYTGGATYA	family_22	14.437937	10	4	1

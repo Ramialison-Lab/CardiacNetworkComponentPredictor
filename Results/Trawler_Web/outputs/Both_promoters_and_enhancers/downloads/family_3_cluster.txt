@@ -1,0 +1,9 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CAGATCCMCCT	family_3	16.697733	10	3	1
+CAGATCCMCST	family_3	16.697733	10	3	1
+CAGATCSMCCT	family_3	15.77342	11	4	1
+CAGATCCACMT	family_3	16.697733	10	3	1
+CAGATCSACMT	family_3	16.697733	10	3	1
+CAGATCMACMT	family_3	16.626842	13	5	1
+CAGATCCMCMT	family_3	17.971344	14	5	1
+CAGATCCMCCK	family_3	16.697733	10	3	1

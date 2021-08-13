@@ -1,0 +1,4 @@
+family_24	ff00ff
+motif	009ba5
+family_21	chr8-28373687-28374687	1	236	245	motif
+CYWCCTGCC.	chr8-28373687-28374687	1	238	248	family_24

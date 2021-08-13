@@ -1,0 +1,3 @@
+family_4	ff00ff
+motif	009ba5
+CCCCGCWG.	chr9-24572281-24573281	1	263	272	family_4

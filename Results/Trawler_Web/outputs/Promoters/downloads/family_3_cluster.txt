@@ -1,0 +1,8 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+ACTGAACASAY	family_3	16.767872	10	3	1
+ACTSAACACAY	family_3	16.767872	10	3	1
+ACTGAACWCWT	family_3	16.767872	10	3	1
+ACYGAACWCAT	family_3	29.80066	10	1	1
+ACTGRACWCAT	family_3	20.804306	10	2	1
+ACTGAACWCAY	family_3	32.81862	11	1	1
+ACTGAWCWCAT	family_3	16.767872	10	3	1

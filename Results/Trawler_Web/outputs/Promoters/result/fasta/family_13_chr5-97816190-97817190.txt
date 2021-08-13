@@ -1,0 +1,5 @@
+family_13	ff00ff
+motif	009ba5
+AAWMACCGCC	chr5-97816190-97817190	1	432	442	family_13
+family_1	chr5-97816190-97817190	1	726	734	motif
+family_16	chr5-97816190-97817190	1	579	590	motif

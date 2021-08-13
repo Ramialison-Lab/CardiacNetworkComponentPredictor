@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+family_13	chr9-77193286-77194286	1	787	799	motif
+..CWGYCTCT..	chr9-77193286-77194286	1	392	404	family_11

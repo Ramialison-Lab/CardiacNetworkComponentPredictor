@@ -1,0 +1,4 @@
+family_4	ff00ff
+motif	009ba5
+family_22	chr2-13499638-13500638	1	711	723	motif
+CGRYGAAG	chr2-13499638-13500638	1	491	499	family_4

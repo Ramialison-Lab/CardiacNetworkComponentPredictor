@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGRGCTR....	chr8-26297300-26298500	1	199	214	family_11
+...CAGWGCTR....	chr8-26297300-26298500	1	199	214	family_11
+family_5	chr8-26297300-26298500	1	201	214	motif

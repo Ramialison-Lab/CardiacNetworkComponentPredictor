@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+....AGKGCTGY...	chr19-21960721-21962100	1	1306	1321	family_11
+....AGGGCTKY...	chr19-21960721-21962100	1	1306	1321	family_11
+family_8	chr19-21960721-21962100	1	93	105	motif
+family_8	chr19-21960721-21962100	1	93	105	motif

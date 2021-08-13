@@ -1,0 +1,5 @@
+family_5	ff00ff
+motif	009ba5
+family_13	chr19-53753431-53754431	1	559	569	motif
+family_17	chr19-53753431-53754431	1	540	548	motif
+AAAATAGCYCS	chr19-53753431-53754431	1	631	642	family_5

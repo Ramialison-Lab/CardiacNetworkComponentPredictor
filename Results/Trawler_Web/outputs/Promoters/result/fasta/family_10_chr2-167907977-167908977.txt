@@ -1,0 +1,4 @@
+family_10	ff00ff
+motif	009ba5
+ACACAGGKCTST	chr2-167907977-167908977	1	153	165	family_10
+family_1	chr2-167907977-167908977	1	622	630	motif

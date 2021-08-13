@@ -1,0 +1,6 @@
+family_16	ff00ff
+motif	009ba5
+family_19	chr18-4995861-4996861	1	557	568	motif
+family_1	chr18-4995861-4996861	1	675	683	motif
+family_1	chr18-4995861-4996861	1	612	620	motif
+AGCWGCWG...	chr18-4995861-4996861	1	389	400	family_16

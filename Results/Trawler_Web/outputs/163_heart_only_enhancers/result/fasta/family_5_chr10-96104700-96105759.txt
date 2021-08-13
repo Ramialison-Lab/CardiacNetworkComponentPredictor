@@ -1,0 +1,5 @@
+family_5	ff00ff
+motif	009ba5
+family_16	chr10-96104700-96105759	1	868	879	motif
+family_16	chr10-96104700-96105759	1	868	879	motif
+TCTARTTTYAG.	chr10-96104700-96105759	1	223	235	family_5

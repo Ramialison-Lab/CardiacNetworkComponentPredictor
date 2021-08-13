@@ -1,0 +1,5 @@
+family_4	ff00ff
+motif	009ba5
+family_8	chr13-28976516-28977548	1	960	970	motif
+family_8	chr13-28976516-28977548	1	960	970	motif
+.AAGYCGCGK.	chr13-28976516-28977548	1	593	604	family_4

@@ -1,0 +1,3 @@
+family_12	ff00ff
+motif	009ba5
+CAGRGRCA....	chr19-53158300-53159747	1	936	948	family_12

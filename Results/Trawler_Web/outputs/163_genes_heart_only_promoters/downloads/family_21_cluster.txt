@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+GGAATMYGG	family_21	12.849107	13	8	1
+GGAATCYSG	family_21	12.696979	10	5	1

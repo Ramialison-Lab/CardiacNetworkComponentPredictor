@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGMSCG....	chr10-128359812-128360982	1	595	609	family_2
+..ACCSGMCG....	chr10-128359812-128360982	1	599	613	family_2

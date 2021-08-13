@@ -1,0 +1,4 @@
+family_10	ff00ff
+motif	009ba5
+ACACAGGSYTCT	chr15-95701723-95702723	1	484	496	family_10
+family_8	chr15-95701723-95702723	1	369	380	motif

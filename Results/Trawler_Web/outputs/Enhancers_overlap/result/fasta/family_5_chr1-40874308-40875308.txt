@@ -1,0 +1,6 @@
+family_5	ff00ff
+motif	009ba5
+family_11	chr1-40874308-40875308	1	671	686	motif
+family_11	chr1-40874308-40875308	1	671	686	motif
+KCASAGCT.....	chr1-40874308-40875308	1	671	684	family_5
+family_6	chr1-40874308-40875308	1	444	455	motif

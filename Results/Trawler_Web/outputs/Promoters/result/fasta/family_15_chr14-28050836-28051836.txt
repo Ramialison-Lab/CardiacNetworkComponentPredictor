@@ -1,0 +1,4 @@
+family_15	ff00ff
+motif	009ba5
+family_17	chr14-28050836-28051836	1	269	277	motif
+AGCGSSCATC	chr14-28050836-28051836	1	529	539	family_15

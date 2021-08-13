@@ -1,0 +1,5 @@
+family_6	ff00ff
+motif	009ba5
+family_13	chr10-56100232-56101232	1	486	498	motif
+family_13	chr10-56100232-56101232	1	484	496	motif
+AAGCARMAGT	chr10-56100232-56101232	1	770	780	family_6

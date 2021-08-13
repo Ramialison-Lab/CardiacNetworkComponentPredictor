@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+....AGGGCTKY...	chr19-34780243-34781243	1	489	504	family_11
+....AGKGCTGY...	chr19-34780243-34781243	1	810	825	family_11
+family_10	chr19-34780243-34781243	1	608	620	motif

@@ -1,0 +1,3 @@
+family_8	ff00ff
+motif	009ba5
+...AGGCTGNG	chr2-17381673-17382673	1	675	686	family_8

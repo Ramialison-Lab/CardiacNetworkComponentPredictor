@@ -1,0 +1,5 @@
+family_24	ff00ff
+motif	009ba5
+family_19	chr16-11251908-11252908	1	53	62	motif
+family_19	chr16-11251908-11252908	1	53	62	motif
+CCTCCKKCC.	chr16-11251908-11252908	1	215	225	family_24

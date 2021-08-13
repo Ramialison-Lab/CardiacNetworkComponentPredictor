@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCGSM....	chr19-44368325-44369720	1	441	455	family_2
+..ACCSCGCM....	chr19-44368325-44369720	1	441	455	family_2

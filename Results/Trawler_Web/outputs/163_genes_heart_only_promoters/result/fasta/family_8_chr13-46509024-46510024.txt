@@ -1,0 +1,4 @@
+family_8	ff00ff
+motif	009ba5
+...AGGCTGNG	chr13-46509024-46510024	1	257	268	family_8
+family_16	chr13-46509024-46510024	1	262	272	motif

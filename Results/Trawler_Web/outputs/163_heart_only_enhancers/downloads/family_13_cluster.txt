@@ -1,0 +1,8 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CCCTYTAWGG	family_13	12.722019	11	6	1
+CSCTTTAWGG	family_13	16.888361	10	3	1
+CCCTTTAWGK	family_13	12.745697	10	5	1
+CCCTTTANGG	family_13	14.437937	10	4	1
+CCCYTTAWGG	family_13	16.888361	10	3	1
+CCCTKTAWGG	family_13	15.956857	11	4	1
+CCCTKTAAGK	family_13	14.1042595	11	5	1

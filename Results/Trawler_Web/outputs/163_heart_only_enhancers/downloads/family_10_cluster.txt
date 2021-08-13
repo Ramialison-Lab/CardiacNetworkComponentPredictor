@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CTTYGGAWTG	family_10	14.437937	10	4	1
+CKTTGGAWTG	family_10	16.888361	10	3	1

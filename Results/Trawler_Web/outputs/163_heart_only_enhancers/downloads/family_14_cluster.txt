@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CATCARCMACC	family_14	20.949661	10	2	1
+CAKCAGCMACC	family_14	12.745775	10	5	1

@@ -1,0 +1,5 @@
+family_12	ff00ff
+motif	009ba5
+CAGRGRCA....	chr7-17555750-17557000	1	639	651	family_12
+family_11	chr7-17555750-17557000	1	830	845	motif
+family_11	chr7-17555750-17557000	1	857	872	motif

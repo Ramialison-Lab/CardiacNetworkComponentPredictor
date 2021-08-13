@@ -1,0 +1,3 @@
+family_12	ff00ff
+motif	009ba5
+CAGRGRCA....	chr12-55602900-55604239	1	439	451	family_12

@@ -1,0 +1,21 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+...CCGCCCYM..	family_15	12.726275	23	23	1
+CCTYCGCYC....	family_15	12.710033	10	5	-1
+.CWYCGCCCC...	family_15	12.710033	10	5	1
+..CCKGSACCC..	family_15	12.8627615	13	8	1
+..CCKGGAYCC..	family_15	15.913906	11	4	1
+..CCKGGWCCC..	family_15	12.8627615	13	8	1
+..CCKGKACCC..	family_15	12.710033	10	5	1
+.CCTSGACCS...	family_15	12.710033	10	5	1
+..CCTGKACCS..	family_15	13.923143	12	6	1
+..CCTGGAYCS..	family_15	15.913906	11	4	1
+....YGCCCACSC	family_15	14.39867	10	4	-1
+..CCYGGACCS..	family_15	15.913906	11	4	1
+..CCTGGMCCS..	family_15	12.9298	17	13	1
+..CCKGGACCS..	family_15	18.593367	11	3	1
+YCTCCGCYC....	family_15	14.065301	11	5	-1
+MCTCCGCYC....	family_15	12.710033	10	5	-1
+CMTCCGCYC....	family_15	12.710033	10	5	-1
+..TCCGCCMC...	family_15	14.398594	10	4	1
+CCTCCGMYC....	family_15	12.710033	10	5	-1
+.CKCCGCCYC...	family_15	12.710033	10	5	1

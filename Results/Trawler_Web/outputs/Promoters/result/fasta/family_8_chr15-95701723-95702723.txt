@@ -1,0 +1,4 @@
+family_8	ff00ff
+motif	009ba5
+family_10	chr15-95701723-95702723	1	484	496	motif
+AGAGSRGG...	chr15-95701723-95702723	1	369	380	family_8

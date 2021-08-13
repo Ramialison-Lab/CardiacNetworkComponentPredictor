@@ -1,0 +1,3 @@
+family_13	ff00ff
+motif	009ba5
+GKKGGGGG	chr16-38368131-38369131	1	988	996	family_13

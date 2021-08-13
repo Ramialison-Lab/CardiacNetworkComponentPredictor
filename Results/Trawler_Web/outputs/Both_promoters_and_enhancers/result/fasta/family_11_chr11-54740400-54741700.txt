@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+...CAGWGCWG....	chr11-54740400-54741700	1	901	916	family_11
+family_8	chr11-54740400-54741700	1	862	874	motif
+family_8	chr11-54740400-54741700	1	862	874	motif
+family_8	chr11-54740400-54741700	1	865	877	motif

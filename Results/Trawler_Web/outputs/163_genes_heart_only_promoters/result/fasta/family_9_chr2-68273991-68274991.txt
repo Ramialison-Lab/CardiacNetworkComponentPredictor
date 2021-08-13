@@ -1,0 +1,4 @@
+family_9	ff00ff
+motif	009ba5
+family_11	chr2-68273991-68274991	1	654	666	motif
+GCWCCACRG..	chr2-68273991-68274991	1	166	177	family_9

@@ -1,0 +1,4 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+SATCAGSAAGA	family_19	12.745775	10	5	1
+CATCAGSAAKA	family_19	14.104345	11	5	1
+CATCAGSAASA	family_19	12.745775	10	5	1

@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+family_17	chr8-63838237-63839237	1	219	227	motif
+family_17	chr8-63838237-63839237	1	862	870	motif
+AGGAGRRG	chr8-63838237-63839237	1	5	13	family_1

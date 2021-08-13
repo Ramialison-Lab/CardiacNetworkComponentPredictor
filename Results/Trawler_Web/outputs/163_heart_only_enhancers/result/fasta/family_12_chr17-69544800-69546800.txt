@@ -1,0 +1,3 @@
+family_12	ff00ff
+motif	009ba5
+TAKYTGAGTG	chr17-69544800-69546800	1	717	727	family_12

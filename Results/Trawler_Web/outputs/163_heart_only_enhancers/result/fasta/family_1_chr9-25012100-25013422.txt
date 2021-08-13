@@ -1,0 +1,6 @@
+family_1	ff00ff
+motif	009ba5
+CTCCTGMCCTS	chr9-25012100-25013422	1	388	399	family_1
+family_5	chr9-25012100-25013422	1	606	618	motif
+family_5	chr9-25012100-25013422	1	606	618	motif
+family_5	chr9-25012100-25013422	1	606	618	motif

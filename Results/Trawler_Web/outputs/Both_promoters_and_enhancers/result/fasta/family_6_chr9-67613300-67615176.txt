@@ -1,0 +1,3 @@
+family_6	ff00ff
+motif	009ba5
+CAGCTSCW...	chr9-67613300-67615176	1	1365	1376	family_6

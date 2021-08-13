@@ -1,0 +1,4 @@
+family_22	ff00ff
+motif	009ba5
+..GAGGSMGAG.	chr2-13499638-13500638	1	711	723	family_22
+family_4	chr2-13499638-13500638	1	491	499	motif

@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+...CAGWGSTG....	chr2-84305917-84306917	1	853	868	family_11
+...CAGRGCKG....	chr2-84305917-84306917	1	392	407	family_11

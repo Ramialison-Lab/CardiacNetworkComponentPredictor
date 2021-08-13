@@ -1,0 +1,3 @@
+family_16	ff00ff
+motif	009ba5
+...GAAGGTTY	chr2-17383865-17385000	1	425	436	family_16

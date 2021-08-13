@@ -1,0 +1,5 @@
+family_8	ff00ff
+motif	009ba5
+family_11	chr17-85486206-85487400	1	193	208	motif
+family_11	chr17-85486206-85487400	1	193	208	motif
+...CAGTSACW.	chr17-85486206-85487400	1	1023	1035	family_8

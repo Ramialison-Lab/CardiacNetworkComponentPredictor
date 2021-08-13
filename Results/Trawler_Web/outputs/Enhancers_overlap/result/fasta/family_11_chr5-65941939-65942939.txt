@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+...CARRGCTG....	chr5-65941939-65942939	1	340	355	family_11
+...CARKGCTG....	chr5-65941939-65942939	1	340	355	family_11

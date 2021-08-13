@@ -1,0 +1,3 @@
+family_5	ff00ff
+motif	009ba5
+TCTARTTTYAG.	chr13-11524998-11525998	1	74	86	family_5

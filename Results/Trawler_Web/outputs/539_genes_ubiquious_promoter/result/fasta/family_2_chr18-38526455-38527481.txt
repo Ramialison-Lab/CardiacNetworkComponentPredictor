@@ -1,0 +1,3 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCRCK....	chr18-38526455-38527481	1	660	674	family_2

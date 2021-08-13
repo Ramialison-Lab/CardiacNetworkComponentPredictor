@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCSSGGC....	chr9-62262724-62263781	1	903	917	family_2
+..ACCGSSGC....	chr9-62262724-62263781	1	903	917	family_2

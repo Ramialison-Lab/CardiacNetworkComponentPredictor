@@ -1,0 +1,3 @@
+family_7	ff00ff
+motif	009ba5
+.CAGKGCTCTGK	chr2-68253215-68256600	1	3042	3054	family_7

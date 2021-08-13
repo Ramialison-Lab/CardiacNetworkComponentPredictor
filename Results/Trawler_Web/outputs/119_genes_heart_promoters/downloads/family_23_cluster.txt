@@ -1,0 +1,7 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+GCTCSGAS	family_23	13.566468	17	12	1
+GCKYCGAG	family_23	13.369619	16	11	1
+GCTYCGAS	family_23	16.397427	14	6	1
+GCTYCGAG	family_23	13.923068	12	6	1
+GCKCCGAG	family_23	12.862689	13	8	1
+GCTCCGAS	family_23	15.913822	11	4	1

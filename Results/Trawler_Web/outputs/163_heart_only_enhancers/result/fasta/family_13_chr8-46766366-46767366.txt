@@ -1,0 +1,4 @@
+family_13	ff00ff
+motif	009ba5
+family_12	chr8-46766366-46767366	1	68	78	motif
+CCCTYTAWGG	chr8-46766366-46767366	1	554	564	family_13

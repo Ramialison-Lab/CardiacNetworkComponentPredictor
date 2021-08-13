@@ -1,0 +1,7 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+ACACCMTSC	family_3	12.8627615	13	8	1
+ACACCMTCS	family_3	20.895731	10	2	1
+ACACCMTCM	family_3	16.843723	10	3	1
+ACACCMTMC	family_3	16.843723	10	3	1
+AYACCMTCC	family_3	18.593367	11	3	1
+ACACSMTCC	family_3	18.593367	11	3	1

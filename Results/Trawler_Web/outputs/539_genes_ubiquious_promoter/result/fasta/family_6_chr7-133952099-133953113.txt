@@ -1,0 +1,4 @@
+family_6	ff00ff
+motif	009ba5
+family_2	chr7-133952099-133953113	1	517	531	motif
+ACCRCGCS..	chr7-133952099-133953113	1	519	529	family_6

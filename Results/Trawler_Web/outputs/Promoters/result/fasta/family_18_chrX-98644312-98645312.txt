@@ -1,0 +1,4 @@
+family_18	ff00ff
+motif	009ba5
+.WGGCRGCT.	chrX-98644312-98645312	1	798	808	family_18
+family_17	chrX-98644312-98645312	1	951	959	motif

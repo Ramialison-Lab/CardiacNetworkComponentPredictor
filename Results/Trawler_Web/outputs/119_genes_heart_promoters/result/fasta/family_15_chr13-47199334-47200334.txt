@@ -1,0 +1,5 @@
+family_15	ff00ff
+motif	009ba5
+family_3	chr13-47199334-47200334	1	700	709	motif
+family_12	chr13-47199334-47200334	1	118	130	motif
+.CWYCGCCCC...	chr13-47199334-47200334	1	986	999	family_15

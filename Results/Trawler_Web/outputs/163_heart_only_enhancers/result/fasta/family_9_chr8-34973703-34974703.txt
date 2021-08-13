@@ -1,0 +1,3 @@
+family_9	ff00ff
+motif	009ba5
+CAGARGTGASA	chr8-34973703-34974703	1	261	272	family_9

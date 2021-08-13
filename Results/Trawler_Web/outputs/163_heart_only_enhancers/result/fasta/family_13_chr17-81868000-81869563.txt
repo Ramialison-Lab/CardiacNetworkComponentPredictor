@@ -1,0 +1,5 @@
+family_13	ff00ff
+motif	009ba5
+family_10	chr17-81868000-81869563	1	427	437	motif
+family_10	chr17-81868000-81869563	1	427	437	motif
+CCCTKTAAGK	chr17-81868000-81869563	1	697	707	family_13

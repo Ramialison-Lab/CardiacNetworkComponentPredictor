@@ -1,0 +1,4 @@
+family_18	ff00ff
+motif	009ba5
+family_17	chr8-23616506-23617506	1	589	599	motif
+.TGMTGSCG..	chr8-23616506-23617506	1	302	313	family_18

@@ -1,0 +1,6 @@
+family_20	ff00ff
+motif	009ba5
+CASCCARGAGA	chr8-64399000-64401110	1	524	535	family_20
+family_2	chr8-64399000-64401110	1	741	751	motif
+family_2	chr8-64399000-64401110	1	741	751	motif
+family_2	chr8-64399000-64401110	1	741	751	motif

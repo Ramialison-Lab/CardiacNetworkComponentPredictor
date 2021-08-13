@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr10-96979300-96980645	1	616	628	motif
+family_12	chr10-96979300-96980645	1	616	628	motif
+...CAGAKSTG....	chr10-96979300-96980645	1	938	953	family_11
+...CAGRGYTG....	chr10-96979300-96980645	1	898	913	family_11

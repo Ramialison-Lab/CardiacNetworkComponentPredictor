@@ -1,0 +1,6 @@
+family_2	ff00ff
+motif	009ba5
+..ACCSGSCC....	chr3-96330480-96331586	1	757	771	family_2
+..ACCSSGCC....	chr3-96330480-96331586	1	757	771	family_2
+family_8	chr3-96330480-96331586	1	501	511	motif
+family_8	chr3-96330480-96331586	1	501	511	motif

@@ -1,0 +1,4 @@
+family_12	ff00ff
+motif	009ba5
+CAGRGRCA....	chr12-73105787-73106800	1	715	727	family_12
+CAGWGRCA....	chr12-73105787-73106800	1	715	727	family_12

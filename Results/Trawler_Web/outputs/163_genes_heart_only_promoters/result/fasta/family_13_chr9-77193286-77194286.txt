@@ -1,0 +1,4 @@
+family_13	ff00ff
+motif	009ba5
+...CAWCGCWC.	chr9-77193286-77194286	1	787	799	family_13
+family_11	chr9-77193286-77194286	1	392	404	motif

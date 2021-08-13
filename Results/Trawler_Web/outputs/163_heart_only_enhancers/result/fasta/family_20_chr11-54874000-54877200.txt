@@ -1,0 +1,4 @@
+family_20	ff00ff
+motif	009ba5
+family_18	chr11-54874000-54877200	1	2575	2585	motif
+CAGCCWRGAGA	chr11-54874000-54877200	1	516	527	family_20

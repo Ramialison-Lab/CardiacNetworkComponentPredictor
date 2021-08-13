@@ -1,0 +1,4 @@
+family_17	ff00ff
+motif	009ba5
+family_18	chr12-33803508-33804508	1	921	931	motif
+AGGSAGRG	chr12-33803508-33804508	1	675	683	family_17

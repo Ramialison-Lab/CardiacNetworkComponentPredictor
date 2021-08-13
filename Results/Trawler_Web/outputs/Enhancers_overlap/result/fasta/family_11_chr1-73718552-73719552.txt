@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGRRCTG....	chr1-73718552-73719552	1	300	315	family_11
+...CAGKSCTG....	chr1-73718552-73719552	1	301	316	family_11
+...CAGWSCTG....	chr1-73718552-73719552	1	301	316	family_11

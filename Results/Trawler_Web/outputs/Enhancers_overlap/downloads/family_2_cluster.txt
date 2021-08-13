@@ -1,0 +1,7 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+ATWCTAAAAATA	family_2	14.270282	10	4	1
+ATWCKAAAAATA	family_2	14.270282	10	4	1
+CAATCASTACM	family_20	15.02267	13	6	1
+CAATCASTMCA	family_20	14.270223	10	4	1
+AATGGYTCAGAK	family_21	14.270282	10	4	1
+AATGGCTSAGAK	family_21	14.270282	10	4	1

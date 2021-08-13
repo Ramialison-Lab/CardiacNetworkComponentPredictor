@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+....AGKGCTGY...	chr6-116104554-116105554	1	386	401	family_11
+family_5	chr6-116104554-116105554	1	443	456	motif
+family_6	chr6-116104554-116105554	1	978	989	motif

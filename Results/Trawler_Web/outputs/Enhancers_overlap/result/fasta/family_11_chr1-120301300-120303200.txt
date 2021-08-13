@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+....AGKGCTGY...	chr1-120301300-120303200	1	1819	1834	family_11
+...CAGWGSTG....	chr1-120301300-120303200	1	454	469	family_11

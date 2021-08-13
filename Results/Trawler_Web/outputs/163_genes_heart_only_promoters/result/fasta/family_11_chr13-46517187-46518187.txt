@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+..CAGCCYYT..	chr13-46517187-46518187	1	61	73	family_11
+..CWGCCTYT..	chr13-46517187-46518187	1	140	152	family_11

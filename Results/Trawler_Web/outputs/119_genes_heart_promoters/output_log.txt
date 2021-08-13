@@ -1,0 +1,83 @@
+########################################
+  Trawler standalone 2.0
+########################################
+
+## Running trawler.pl
+  ==========
+  Reading configuration and pipeline settings...
+  ==========
+
+  ==========
+  Processing bed file and generating random background...
+  ==========
+
+
+Running generate_random_background.pl
+mean length:1005
+145796	8
+Distribution:
+-5000000_-49999 3
+-49999_-4999 27
+-4999_0 17
+0_4999 52
+4999_49999 44
+49999_5000000 2
+
+## Running bedtofasta.pl
+Converting sample_merge_sort.bed to fasta format
+run time: 16
+
+## Running bedtofasta.pl
+Converting rand_bg.bed to fasta format
+run time: 16
+
+## Running pipeline_trawler_01_som.pl
+  ==========
+  Running Trawler...
+  ==========
+
+performing SCC clustering
+
+This is the end.
+
+## Running pipeline_trawler_02_phastcons.pl
+extracting phastcon scores for chr1
+extracting phastcon scores for chr10
+extracting phastcon scores for chr11
+extracting phastcon scores for chr12
+extracting phastcon scores for chr13
+extracting phastcon scores for chr14
+extracting phastcon scores for chr15
+extracting phastcon scores for chr16
+extracting phastcon scores for chr17
+extracting phastcon scores for chr18
+extracting phastcon scores for chr19
+extracting phastcon scores for chr2
+extracting phastcon scores for chr3
+extracting phastcon scores for chr4
+extracting phastcon scores for chr5
+extracting phastcon scores for chr6
+extracting phastcon scores for chr7
+extracting phastcon scores for chr8
+extracting phastcon scores for chr9
+extracting phastcon scores for chrX
+
+## Running pipeline_trawler_03.pl
+  ==========
+  Creating HTML output...
+  ==========
+
+## Job's done !
+  ==========
+trawler.pl => 17 seconds
+pipeline_trawler_01_som.pl => 1 minute, 31 seconds
+pipeline_trawler_02.pl => 3 seconds
+pipeline_trawler_03.pl => NA
+Elapsed time => 1 minute, 51 seconds
+
+  ----------
+  Your JobID is 0x17D4B192E9F811EBAB683E6CBDAD1034
+  Output files have been stored in /public_html/0x17D4B192E9F811EBAB683E6CBDAD1034
+  FASTA files and generated background can be found in 0x17D4B192E9F811EBAB683E6CBDAD1034/downloads
+  ==========
+

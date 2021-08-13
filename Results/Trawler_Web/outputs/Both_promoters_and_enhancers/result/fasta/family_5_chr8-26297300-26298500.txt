@@ -1,0 +1,5 @@
+family_5	ff00ff
+motif	009ba5
+family_11	chr8-26297300-26298500	1	199	214	motif
+family_11	chr8-26297300-26298500	1	199	214	motif
+KCASAGCT.....	chr8-26297300-26298500	1	201	214	family_5

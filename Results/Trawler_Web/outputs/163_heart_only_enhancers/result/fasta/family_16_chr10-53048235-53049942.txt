@@ -1,0 +1,3 @@
+family_16	ff00ff
+motif	009ba5
+GGMRAAGGTT.	chr10-53048235-53049942	1	1142	1153	family_16

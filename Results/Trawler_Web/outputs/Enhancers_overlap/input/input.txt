@@ -1,0 +1,38 @@
+$ trawler.pl -sample /mnt/public_html/0xE8F601B0E2DA11EB9955C0C15692FD3D/bed_sample.txt -org mm9 -strand double -mlength 8 -overlap 70 -class vertebrates -dir_id 0xE8F601B0E2DA11EB9955C0C15692FD3D -phastcon 1 -masked 1
+
+command line options
+====================
+
+sample=/mnt/public_html/0xE8F601B0E2DA11EB9955C0C15692FD3D/bed_sample.txt
+org=mm9
+strand=double
+mlength=8
+overlap=70
+class=vertebrates
+dir_id=0xE8F601B0E2DA11EB9955C0C15692FD3D
+
+default options
+===============
+
+[motif discovery]
+occurrence=10
+wildcard=2
+
+[clustering]
+motif_number=200
+nb_of_cluster=0
+
+[visualization]
+directory=/mnt/public_html/0xE8F601B0E2DA11EB9955C0C15692FD3D
+xtralen=0
+clustering=1
+web=1
+
+pipeline
+========
+
+trawler.pl => 22 seconds
+pipeline_trawler_01_som.pl => 5 minutes, 13 seconds
+pipeline_trawler_02.pl => 5 minutes, 41 seconds
+pipeline_trawler_03.pl => 2 seconds
+Elapsed time => 11 minutes, 18 seconds

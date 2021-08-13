@@ -1,0 +1,3 @@
+family_2	ff00ff
+motif	009ba5
+..ACCCGMCS....	chr2-25429773-25430807	1	630	644	family_2

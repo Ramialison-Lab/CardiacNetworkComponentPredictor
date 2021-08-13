@@ -1,0 +1,5 @@
+family_9	ff00ff
+motif	009ba5
+family_19	chr3-101399640-101400640	1	716	727	motif
+family_14	chr3-101399640-101400640	1	558	567	motif
+.CTCCRMAGAG	chr3-101399640-101400640	1	498	509	family_9

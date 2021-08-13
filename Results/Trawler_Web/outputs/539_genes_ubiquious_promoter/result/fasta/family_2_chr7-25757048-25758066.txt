@@ -1,0 +1,5 @@
+family_2	ff00ff
+motif	009ba5
+..ACCCSGCM....	chr7-25757048-25758066	1	163	177	family_2
+..ACCSCGCM....	chr7-25757048-25758066	1	163	177	family_2
+..ACCGCSCK....	chr7-25757048-25758066	1	660	674	family_2

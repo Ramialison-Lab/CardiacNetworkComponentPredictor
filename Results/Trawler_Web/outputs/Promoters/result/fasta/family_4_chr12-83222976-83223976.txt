@@ -1,0 +1,3 @@
+family_4	ff00ff
+motif	009ba5
+AGCCCCGKM.	chr12-83222976-83223976	1	658	668	family_4

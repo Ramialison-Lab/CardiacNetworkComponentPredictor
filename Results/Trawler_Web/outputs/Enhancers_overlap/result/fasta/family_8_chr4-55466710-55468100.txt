@@ -1,0 +1,6 @@
+family_8	ff00ff
+motif	009ba5
+family_11	chr4-55466710-55468100	1	282	297	motif
+family_11	chr4-55466710-55468100	1	282	297	motif
+...CASTGACW.	chr4-55466710-55468100	1	286	298	family_8
+...CAGTSACW.	chr4-55466710-55468100	1	286	298	family_8

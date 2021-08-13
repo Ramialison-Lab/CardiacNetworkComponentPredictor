@@ -1,0 +1,4 @@
+family_15	ff00ff
+motif	009ba5
+ACTAAAWAWAG	chr9-64963761-64964761	1	918	929	family_15
+family_11	chr9-64963761-64964761	1	136	151	motif

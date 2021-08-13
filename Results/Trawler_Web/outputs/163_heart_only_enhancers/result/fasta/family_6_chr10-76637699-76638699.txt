@@ -1,0 +1,4 @@
+family_6	ff00ff
+motif	009ba5
+family_21	chr10-76637699-76638699	1	640	651	motif
+SAAGGCWAGGC	chr10-76637699-76638699	1	277	288	family_6

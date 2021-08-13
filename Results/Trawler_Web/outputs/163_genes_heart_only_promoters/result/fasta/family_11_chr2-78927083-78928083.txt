@@ -1,0 +1,7 @@
+family_11	ff00ff
+motif	009ba5
+family_23	chr2-78927083-78928083	1	44	53	motif
+family_23	chr2-78927083-78928083	1	44	53	motif
+family_23	chr2-78927083-78928083	1	44	53	motif
+family_23	chr2-78927083-78928083	1	44	53	motif
+..CAGCCYYT..	chr2-78927083-78928083	1	431	443	family_11

@@ -1,0 +1,4 @@
+family_11	ff00ff
+motif	009ba5
+..CAGCCYYT..	chr12-75011362-75012362	1	439	451	family_11
+..CWGCCTYT..	chr12-75011362-75012362	1	439	451	family_11

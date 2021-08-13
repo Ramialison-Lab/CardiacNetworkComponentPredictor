@@ -1,0 +1,5 @@
+family_18	ff00ff
+motif	009ba5
+.WGGCRGCT.	chr8-83353764-83354764	1	972	982	family_18
+family_17	chr8-83353764-83354764	1	978	986	motif
+family_8	chr8-83353764-83354764	1	519	530	motif

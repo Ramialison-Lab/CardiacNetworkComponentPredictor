@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGWGCTK....	chr16-5952600-5953634	1	186	201	family_11
+...CAKWGCTG....	chr16-5952600-5953634	1	433	448	family_11
+...CAGKGCTK....	chr16-5952600-5953634	1	186	201	family_11

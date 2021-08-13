@@ -1,0 +1,6 @@
+family_1	ff00ff
+motif	009ba5
+family_2	chr19-9041498-9042524	1	642	656	motif
+family_4	chr19-9041498-9042524	1	310	321	motif
+family_5	chr19-9041498-9042524	1	64	73	motif
+.ACCSGGMG...	chr19-9041498-9042524	1	880	892	family_1

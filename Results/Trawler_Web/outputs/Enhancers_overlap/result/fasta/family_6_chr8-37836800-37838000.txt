@@ -1,0 +1,5 @@
+family_6	ff00ff
+motif	009ba5
+family_8	chr8-37836800-37838000	1	2	14	motif
+family_8	chr8-37836800-37838000	1	45	57	motif
+CAGCTSCW...	chr8-37836800-37838000	1	129	140	family_6

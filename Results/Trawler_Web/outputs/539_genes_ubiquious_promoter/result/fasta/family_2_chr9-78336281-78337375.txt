@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCCGSCY....	chr9-78336281-78337375	1	842	856	family_2
+.ACCCGCSY.....	chr9-78336281-78337375	1	843	857	family_2

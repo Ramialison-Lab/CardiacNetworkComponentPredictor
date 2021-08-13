@@ -1,0 +1,8 @@
+family_11	ff00ff
+motif	009ba5
+..CWGCCTYT..	chr9-77192276-77193276	1	34	46	family_11
+..CAGCCYYT..	chr9-77192276-77193276	1	89	101	family_11
+family_8	chr9-77192276-77193276	1	64	75	motif
+family_8	chr9-77192276-77193276	1	64	75	motif
+family_8	chr9-77192276-77193276	1	64	75	motif
+family_8	chr9-77192276-77193276	1	193	204	motif

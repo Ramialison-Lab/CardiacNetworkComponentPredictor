@@ -1,0 +1,5 @@
+family_17	ff00ff
+motif	009ba5
+family_20	chr9-66881000-66882300	1	888	899	motif
+family_13	chr9-66881000-66882300	1	460	470	motif
+CYSGCAGTCA.	chr9-66881000-66882300	1	631	642	family_17

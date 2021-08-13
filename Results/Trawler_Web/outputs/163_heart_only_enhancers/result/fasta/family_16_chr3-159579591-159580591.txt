@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+GGARAAKGTTT	chr3-159579591-159580591	1	976	987	family_16
+family_5	chr3-159579591-159580591	1	460	472	motif

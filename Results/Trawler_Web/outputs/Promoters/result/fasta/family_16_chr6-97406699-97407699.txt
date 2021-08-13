@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+family_1	chr6-97406699-97407699	1	776	784	motif
+AGCTGSWG...	chr6-97406699-97407699	1	656	667	family_16

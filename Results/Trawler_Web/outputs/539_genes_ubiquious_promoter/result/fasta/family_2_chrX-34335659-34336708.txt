@@ -1,0 +1,9 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCSRC....	chrX-34335659-34336708	1	763	777	family_2
+family_8	chrX-34335659-34336708	1	642	652	motif
+family_8	chrX-34335659-34336708	1	642	652	motif
+family_8	chrX-34335659-34336708	1	642	652	motif
+family_1	chrX-34335659-34336708	1	319	331	motif
+family_1	chrX-34335659-34336708	1	319	331	motif
+family_1	chrX-34335659-34336708	1	319	331	motif

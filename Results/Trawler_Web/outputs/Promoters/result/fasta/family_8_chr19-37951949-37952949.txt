@@ -1,0 +1,5 @@
+family_8	ff00ff
+motif	009ba5
+family_1	chr19-37951949-37952949	1	129	137	motif
+family_1	chr19-37951949-37952949	1	665	673	motif
+AGAGSRGG...	chr19-37951949-37952949	1	402	413	family_8

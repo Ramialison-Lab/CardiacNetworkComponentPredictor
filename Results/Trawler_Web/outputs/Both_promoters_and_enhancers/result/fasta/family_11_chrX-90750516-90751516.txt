@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chrX-90750516-90751516	1	689	701	motif
+family_12	chrX-90750516-90751516	1	689	701	motif
+...CAGRGSTG....	chrX-90750516-90751516	1	500	515	family_11

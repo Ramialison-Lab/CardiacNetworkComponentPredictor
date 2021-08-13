@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+...GAAGGTTY	chr16-4516532-4517600	1	658	669	family_16
+..RGAAGGTTY	chr16-4516532-4517600	1	658	669	family_16

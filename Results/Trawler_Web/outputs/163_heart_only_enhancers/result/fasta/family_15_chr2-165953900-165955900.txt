@@ -1,0 +1,4 @@
+family_15	ff00ff
+motif	009ba5
+CARSGTTGTG	chr2-165953900-165955900	1	567	577	family_15
+family_1	chr2-165953900-165955900	1	1822	1833	motif

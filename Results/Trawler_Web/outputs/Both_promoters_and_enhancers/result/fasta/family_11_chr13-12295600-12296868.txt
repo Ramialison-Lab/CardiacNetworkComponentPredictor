@@ -1,0 +1,8 @@
+family_11	ff00ff
+motif	009ba5
+...CAKWGCTG....	chr13-12295600-12296868	1	3	18	family_11
+family_8	chr13-12295600-12296868	1	26	38	motif
+family_8	chr13-12295600-12296868	1	26	38	motif
+family_8	chr13-12295600-12296868	1	26	38	motif
+family_8	chr13-12295600-12296868	1	26	38	motif
+family_8	chr13-12295600-12296868	1	26	38	motif

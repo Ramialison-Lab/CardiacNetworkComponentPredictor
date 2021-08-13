@@ -1,0 +1,5 @@
+family_4	ff00ff
+motif	009ba5
+family_2	chr2-84877232-84878274	1	398	412	motif
+family_2	chr2-84877232-84878274	1	398	412	motif
+.AAKYCGCGGG	chr2-84877232-84878274	1	337	348	family_4

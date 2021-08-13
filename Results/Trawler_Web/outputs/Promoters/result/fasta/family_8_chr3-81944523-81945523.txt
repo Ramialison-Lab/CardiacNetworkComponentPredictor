@@ -1,0 +1,5 @@
+family_8	ff00ff
+motif	009ba5
+family_1	chr3-81944523-81945523	1	433	441	motif
+family_1	chr3-81944523-81945523	1	134	142	motif
+AGAGSRGG...	chr3-81944523-81945523	1	313	324	family_8

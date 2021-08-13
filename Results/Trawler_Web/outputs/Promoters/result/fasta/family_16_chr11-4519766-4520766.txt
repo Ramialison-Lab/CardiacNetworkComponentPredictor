@@ -1,0 +1,5 @@
+family_16	ff00ff
+motif	009ba5
+family_17	chr11-4519766-4520766	1	814	822	motif
+AGCTGMWG...	chr11-4519766-4520766	1	616	627	family_16
+AGCTGSKG...	chr11-4519766-4520766	1	606	617	family_16

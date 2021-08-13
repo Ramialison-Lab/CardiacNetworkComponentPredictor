@@ -1,0 +1,3 @@
+family_18	ff00ff
+motif	009ba5
+.TGMTGSCG..	chr17-26983122-26984122	1	460	471	family_18

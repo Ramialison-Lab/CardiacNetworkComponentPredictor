@@ -1,0 +1,5 @@
+family_16	ff00ff
+motif	009ba5
+.GAGAAGGTWY	chr18-11401797-11404300	1	1435	1446	family_16
+family_2	chr18-11401797-11404300	1	180	190	motif
+family_2	chr18-11401797-11404300	1	180	190	motif

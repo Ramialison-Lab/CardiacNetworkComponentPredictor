@@ -1,0 +1,6 @@
+family_8	ff00ff
+motif	009ba5
+family_2	chrX-163646456-163647477	1	23	37	motif
+family_2	chrX-163646456-163647477	1	202	216	motif
+ACGCCGSS..	chrX-163646456-163647477	1	6	16	family_8
+family_4	chrX-163646456-163647477	1	656	667	motif

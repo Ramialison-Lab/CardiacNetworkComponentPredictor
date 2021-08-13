@@ -1,0 +1,7 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+ACKAAATAWAG	family_15	15.282343	12	5	1
+ACKAAAWATAG	family_15	14.866536	15	8	1
+ACTAAAWATAG	family_15	14.866536	15	8	1
+ACTAAAWWTAG	family_15	13.999783	24	21	1
+ACTAAAWAWAG	family_15	15.44824	21	14	1
+ACTAAATAWAG	family_15	15.282343	12	5	1

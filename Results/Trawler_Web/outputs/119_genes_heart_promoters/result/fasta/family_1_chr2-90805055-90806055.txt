@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+CAGCCTGTR.	chr2-90805055-90806055	1	987	997	family_1
+family_13	chr2-90805055-90806055	1	966	974	motif
+family_13	chr2-90805055-90806055	1	966	974	motif

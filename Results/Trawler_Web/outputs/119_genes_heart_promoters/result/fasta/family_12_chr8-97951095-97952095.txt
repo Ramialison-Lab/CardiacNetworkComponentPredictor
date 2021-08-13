@@ -1,0 +1,5 @@
+family_12	ff00ff
+motif	009ba5
+family_22	chr8-97951095-97952095	1	479	491	motif
+..CYKCCCCAG.	chr8-97951095-97952095	1	75	87	family_12
+family_24	chr8-97951095-97952095	1	73	83	motif

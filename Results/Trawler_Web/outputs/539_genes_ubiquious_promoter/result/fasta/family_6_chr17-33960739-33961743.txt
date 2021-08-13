@@ -1,0 +1,5 @@
+family_6	ff00ff
+motif	009ba5
+family_2	chr17-33960739-33961743	1	740	754	motif
+family_2	chr17-33960739-33961743	1	767	781	motif
+ACCRCGCS..	chr17-33960739-33961743	1	742	752	family_6

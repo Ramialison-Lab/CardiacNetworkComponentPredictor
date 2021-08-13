@@ -1,0 +1,3 @@
+family_17	ff00ff
+motif	009ba5
+AGGGARGR	chr14-35125214-35126214	1	45	53	family_17

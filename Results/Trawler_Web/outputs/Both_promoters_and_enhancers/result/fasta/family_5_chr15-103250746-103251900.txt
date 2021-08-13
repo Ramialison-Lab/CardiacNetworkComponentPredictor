@@ -1,0 +1,3 @@
+family_5	ff00ff
+motif	009ba5
+KCASAGCT.....	chr15-103250746-103251900	1	904	917	family_5

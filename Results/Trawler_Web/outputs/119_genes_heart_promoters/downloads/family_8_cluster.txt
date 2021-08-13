@@ -1,0 +1,5 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CSCTGTARG	family_8	15.913906	11	4	1
+CSCTGTAGS	family_8	14.065301	11	5	1
+CCCYGTAGS	family_8	12.710033	10	5	1
+CCCTGTARS	family_8	12.710033	10	5	1

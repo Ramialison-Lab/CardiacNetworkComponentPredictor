@@ -1,0 +1,4 @@
+family_15	ff00ff
+motif	009ba5
+CASGSTTGTG	chr8-110521900-110523600	1	148	158	family_15
+family_9	chr8-110521900-110523600	1	1017	1028	motif

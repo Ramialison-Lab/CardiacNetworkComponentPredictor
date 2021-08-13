@@ -1,0 +1,8 @@
+family_4	ff00ff
+motif	009ba5
+family_2	chr7-6648552-6649577	1	723	737	motif
+family_2	chr7-6648552-6649577	1	575	589	motif
+family_2	chr7-6648552-6649577	1	575	589	motif
+family_2	chr7-6648552-6649577	1	723	737	motif
+AAWGCSGCGG.	chr7-6648552-6649577	1	604	615	family_4
+family_1	chr7-6648552-6649577	1	592	604	motif

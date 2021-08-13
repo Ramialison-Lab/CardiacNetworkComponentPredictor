@@ -1,0 +1,4 @@
+family_18	ff00ff
+motif	009ba5
+AGCMCKGTCA	chr11-54874000-54877200	1	2575	2585	family_18
+family_20	chr11-54874000-54877200	1	516	527	motif

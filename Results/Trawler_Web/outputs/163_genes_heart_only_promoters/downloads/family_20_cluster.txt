@@ -1,0 +1,8 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CCWAGCAGAS	family_20	12.697031	10	5	1
+CCAAGCARAG	family_20	14.051098	11	5	1
+CSAAGCARAG	family_20	12.672812	11	6	1
+CCAASCARAG	family_20	13.168963	15	10	1
+CCAAGCARMG	family_20	14.051098	11	5	1
+CCRAGCARAG	family_20	14.051098	11	5	1
+CCWAGCARAG	family_20	12.73454	12	7	1

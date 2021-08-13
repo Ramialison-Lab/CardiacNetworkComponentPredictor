@@ -1,0 +1,3 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCSRC....	chrX-12784995-12786065	1	421	435	family_2

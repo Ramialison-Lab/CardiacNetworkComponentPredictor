@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCCCGSS....	chr14-25305618-25306648	1	581	595	family_2
+..ACCSCGGS....	chr14-25305618-25306648	1	581	595	family_2

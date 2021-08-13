@@ -1,0 +1,5 @@
+family_11	ff00ff
+motif	009ba5
+...CAGNGCTG....	chr16-78257900-78259794	1	754	769	family_11
+...CAGNGCTG....	chr16-78257900-78259794	1	753	768	family_11
+family_5	chr16-78257900-78259794	1	673	686	motif

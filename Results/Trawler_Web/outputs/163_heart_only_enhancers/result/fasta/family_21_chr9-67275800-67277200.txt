@@ -1,0 +1,3 @@
+family_21	ff00ff
+motif	009ba5
+AGGAWGAAMCC	chr9-67275800-67277200	1	703	714	family_21

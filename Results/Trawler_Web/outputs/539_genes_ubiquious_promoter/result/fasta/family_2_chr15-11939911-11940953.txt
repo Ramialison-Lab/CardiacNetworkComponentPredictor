@@ -1,0 +1,5 @@
+family_2	ff00ff
+motif	009ba5
+..ACCGCGRS....	chr15-11939911-11940953	1	607	621	family_2
+..ACCGCGMK....	chr15-11939911-11940953	1	607	621	family_2
+family_8	chr15-11939911-11940953	1	500	510	motif

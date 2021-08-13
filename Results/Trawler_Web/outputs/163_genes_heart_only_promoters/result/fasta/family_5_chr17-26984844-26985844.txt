@@ -1,0 +1,5 @@
+family_5	ff00ff
+motif	009ba5
+family_13	chr17-26984844-26985844	1	221	233	motif
+family_8	chr17-26984844-26985844	1	489	500	motif
+CTTCSMGCT.	chr17-26984844-26985844	1	532	542	family_5

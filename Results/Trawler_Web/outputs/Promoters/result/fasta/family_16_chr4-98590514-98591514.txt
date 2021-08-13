@@ -1,0 +1,4 @@
+family_16	ff00ff
+motif	009ba5
+AGCYGCWG...	chr4-98590514-98591514	1	156	167	family_16
+AGCKGCKG...	chr4-98590514-98591514	1	252	263	family_16

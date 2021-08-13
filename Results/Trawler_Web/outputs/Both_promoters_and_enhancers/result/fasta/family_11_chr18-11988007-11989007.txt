@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+...CARRGCTG....	chr18-11988007-11989007	1	465	480	family_11
+...CARWGCTG....	chr18-11988007-11989007	1	465	480	family_11
+family_10	chr18-11988007-11989007	1	395	407	motif
+family_10	chr18-11988007-11989007	1	395	407	motif

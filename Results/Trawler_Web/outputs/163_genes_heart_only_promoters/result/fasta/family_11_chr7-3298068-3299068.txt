@@ -1,0 +1,9 @@
+family_11	ff00ff
+motif	009ba5
+family_2	chr7-3298068-3299068	1	449	459	motif
+family_13	chr7-3298068-3299068	1	452	464	motif
+..CWGCCYCT..	chr7-3298068-3299068	1	251	263	family_11
+..CWGCCTYT..	chr7-3298068-3299068	1	251	263	family_11
+..CWGYCTCT..	chr7-3298068-3299068	1	245	257	family_11
+family_3	chr7-3298068-3299068	1	247	257	motif
+family_3	chr7-3298068-3299068	1	247	257	motif

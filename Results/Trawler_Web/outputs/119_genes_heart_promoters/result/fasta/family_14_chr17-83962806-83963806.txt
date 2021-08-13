@@ -1,0 +1,3 @@
+family_14	ff00ff
+motif	009ba5
+TGGGCACYS	chr17-83962806-83963806	1	336	345	family_14

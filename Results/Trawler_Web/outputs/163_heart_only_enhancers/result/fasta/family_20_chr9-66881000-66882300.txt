@@ -1,0 +1,5 @@
+family_20	ff00ff
+motif	009ba5
+CRGCCARGAGA	chr9-66881000-66882300	1	888	899	family_20
+family_13	chr9-66881000-66882300	1	460	470	motif
+family_17	chr9-66881000-66882300	1	631	642	motif

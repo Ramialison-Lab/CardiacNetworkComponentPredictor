@@ -1,0 +1,7 @@
+family_11	ff00ff
+motif	009ba5
+family_4	chr8-42100256-42101256	1	7	16	motif
+family_4	chr8-42100256-42101256	1	7	16	motif
+..CWGYCTCT..	chr8-42100256-42101256	1	201	213	family_11
+..CWGCCYCT..	chr8-42100256-42101256	1	454	466	family_11
+family_19	chr8-42100256-42101256	1	269	280	motif

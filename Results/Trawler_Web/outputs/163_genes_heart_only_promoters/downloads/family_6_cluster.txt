@@ -1,0 +1,3 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+AAGCARMAGT	family_6	12.672812	11	6	1
+AAGCAAMRGT	family_6	16.827452	10	3	1

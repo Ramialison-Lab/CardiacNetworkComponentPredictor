@@ -1,0 +1,4 @@
+family_7	ff00ff
+motif	009ba5
+family_9	chr11-54861300-54862395	1	939	950	motif
+.CAGKGCTCTGK	chr11-54861300-54862395	1	410	422	family_7

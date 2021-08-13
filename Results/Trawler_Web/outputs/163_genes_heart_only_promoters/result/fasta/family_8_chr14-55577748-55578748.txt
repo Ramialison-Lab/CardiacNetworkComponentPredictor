@@ -1,0 +1,5 @@
+family_8	ff00ff
+motif	009ba5
+family_17	chr14-55577748-55578748	1	769	779	motif
+family_17	chr14-55577748-55578748	1	769	779	motif
+AGCYGCCAR..	chr14-55577748-55578748	1	178	189	family_8

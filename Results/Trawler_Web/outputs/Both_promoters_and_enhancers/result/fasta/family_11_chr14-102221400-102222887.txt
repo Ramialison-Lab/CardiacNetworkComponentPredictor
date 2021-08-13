@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+...CARWGCTG....	chr14-102221400-102222887	1	429	444	family_11
+...CARRGCTG....	chr14-102221400-102222887	1	429	444	family_11
+family_4	chr14-102221400-102222887	1	6	16	motif
+family_4	chr14-102221400-102222887	1	6	16	motif

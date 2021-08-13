@@ -1,0 +1,3 @@
+family_20	ff00ff
+motif	009ba5
+CAATCASTACM	chr15-94018606-94019700	1	731	742	family_20

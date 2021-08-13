@@ -1,0 +1,5 @@
+family_1	ff00ff
+motif	009ba5
+family_17	chr15-93875352-93876352	1	75	83	motif
+family_17	chr15-93875352-93876352	1	574	582	motif
+AGGAGRRG	chr15-93875352-93876352	1	48	56	family_1

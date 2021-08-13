@@ -1,0 +1,4 @@
+family_5	ff00ff
+motif	009ba5
+family_16	chr3-159579591-159580591	1	976	987	motif
+.CTMAAWATAG.	chr3-159579591-159580591	1	460	472	family_5

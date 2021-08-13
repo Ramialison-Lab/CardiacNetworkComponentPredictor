@@ -1,0 +1,6 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CASGSTTGTG	family_15	12.722019	11	6	1
+CANGGTTGTG	family_15	12.745697	10	5	1
+CARSGTTGTG	family_15	12.745697	10	5	1
+CRRGGTTGTG	family_15	12.745697	10	5	1
+CARGSTTGTG	family_15	12.261244	14	10	1

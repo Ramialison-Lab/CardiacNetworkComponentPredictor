@@ -1,0 +1,3 @@
+family_8	ff00ff
+motif	009ba5
+RTCAGGCKGC	chr11-82738400-82739800	1	255	265	family_8

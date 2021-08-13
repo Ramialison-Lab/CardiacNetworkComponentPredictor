@@ -1,0 +1,3 @@
+family_17	ff00ff
+motif	009ba5
+CTSRCAGTCA.	chr1-43200126-43201200	1	335	346	family_17

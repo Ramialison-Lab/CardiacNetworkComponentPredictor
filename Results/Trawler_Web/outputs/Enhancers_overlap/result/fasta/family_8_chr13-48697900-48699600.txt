@@ -1,0 +1,3 @@
+family_8	ff00ff
+motif	009ba5
+...CAGTSACW.	chr13-48697900-48699600	1	1603	1615	family_8

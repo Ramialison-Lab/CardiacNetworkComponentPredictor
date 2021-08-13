@@ -1,0 +1,6 @@
+family_17	ff00ff
+motif	009ba5
+family_13	chrX-91611099-91612099	1	401	411	motif
+AGGGARGR	chrX-91611099-91612099	1	62	70	family_17
+family_16	chrX-91611099-91612099	1	195	206	motif
+family_16	chrX-91611099-91612099	1	907	918	motif

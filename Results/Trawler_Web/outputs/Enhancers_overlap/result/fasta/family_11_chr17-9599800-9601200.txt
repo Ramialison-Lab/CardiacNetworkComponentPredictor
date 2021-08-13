@@ -1,0 +1,9 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr17-9599800-9601200	1	895	907	motif
+...CAGWGYTG....	chr17-9599800-9601200	1	175	190	family_11
+...CAKWGCTG....	chr17-9599800-9601200	1	379	394	family_11
+...CAGRGYTG....	chr17-9599800-9601200	1	175	190	family_11
+family_8	chr17-9599800-9601200	1	898	910	motif
+family_8	chr17-9599800-9601200	1	898	910	motif
+family_6	chr17-9599800-9601200	1	971	982	motif

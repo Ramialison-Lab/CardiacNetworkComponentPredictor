@@ -1,0 +1,4 @@
+family_8	ff00ff
+motif	009ba5
+...CAGTSACW.	chr1-45076847-45078683	1	828	840	family_8
+...CASTGACW.	chr1-45076847-45078683	1	834	846	family_8

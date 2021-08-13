@@ -1,0 +1,6 @@
+family_11	ff00ff
+motif	009ba5
+family_12	chr16-91980900-91982256	1	175	187	motif
+family_12	chr16-91980900-91982256	1	175	187	motif
+...CAGKGCTS....	chr16-91980900-91982256	1	102	117	family_11
+...CAGRGCTS....	chr16-91980900-91982256	1	102	117	family_11

@@ -1,0 +1,4 @@
+family_2	ff00ff
+motif	009ba5
+..ACCCSGCM....	chr15-36624890-36625905	1	784	798	family_2
+..ACCCGSCM....	chr15-36624890-36625905	1	784	798	family_2

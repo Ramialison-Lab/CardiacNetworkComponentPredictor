@@ -1,0 +1,10 @@
+#Motif	Family name	Z score	Occurrence in the sample	Occurrence in the background	Strand
+CTGKCAGTCAS	family_17	14.438022	10	4	1
+CTGKCRGTCA.	family_17	12.261244	14	10	1
+CTGKYAGTCA.	family_17	13.208666	18	14	1
+CTSRCAGTCA.	family_17	12.493324	15	11	1
+CYSGCAGTCA.	family_17	14.437937	10	4	1
+CTSKCAGTCA.	family_17	13.606909	17	12	1
+CTGKCMGTCA.	family_17	13.221892	15	10	1
+CKGKCAGTCA.	family_17	13.049695	14	9	1
+CTGKCAGTCA.	family_17	13.974096	14	8	1
