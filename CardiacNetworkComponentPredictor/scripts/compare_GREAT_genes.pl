@@ -3,6 +3,12 @@
 use strict;
 #use warnings;
 
+#add help option
+if ($ARGV[0] eq "--help") {
+    print("Usage: perl compare_GREAT_genes.pl [INPUT_FILE] [OPTIONS]... >> [OUTPUT_FILE]\nInput file: TXT (tab-separated) file format, the output files from GREAT database\nOptions:\n  --help: Show this message and exit.\nOutput file: TXT (tab-separated) file format, containing the predicted cardiac-specific genes\n");
+    exit;	
+}
+
 #takes GREAT gene list as input
 my $great_genes = $ARGV[0];
 #RNA-seq data

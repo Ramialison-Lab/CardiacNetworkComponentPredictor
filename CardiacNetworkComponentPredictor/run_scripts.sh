@@ -12,7 +12,7 @@ python3 ../../scripts/LD_getSubsets.py H3K27acHeartmm9UE14halfEncodeLicr.bed H3K
 
 ## Step 3 (Perl): Process GREAT output files to produce heart-specific gene candidates 
 cd ../../
-perl scripts/compare_GREAT_genes.pl data/great_output/enhancer_promoters_heart_only.txt >> out/enhancer_promoters_heart_only_expressed.txt
-perl scripts/compare_GREAT_genes.pl data/great_output/enhancers_heart_only.txt >> out/enhancers_heart_only_expressed.txt
-perl scripts/compare_GREAT_genes.pl data/great_output/promoters_heart_only.txt >> out/promoters_heart_only_expressed.txt
-perl scripts/compare_GREAT_genes.pl data/great_output/enhancer_promoters_ubiquitous.txt >> out/enhancer_promoters_ubiquitous_expressed.txt
+perl scripts/compare_GREAT_genes.pl data/great_output/enhancer_promoters_heart_only.txt data/heart-E14.5-gene-expression/001_heart-E14.5-1_2_expr.txt data/heart-E14.5-gene-expression/002_mart_export-6_mrk_ensids_NM.txt >> out/enhancer_promoters_heart_only_expressed.txt
+perl scripts/compare_GREAT_genes.pl data/great_output/enhancers_heart_only.txt data/heart-E14.5-gene-expression/001_heart-E14.5-1_2_expr.txt data/heart-E14.5-gene-expression/002_mart_export-6_mrk_ensids_NM.txt >> out/enhancers_heart_only_expressed.txt
+perl scripts/compare_GREAT_genes.pl data/great_output/promoters_heart_only.txt data/heart-E14.5-gene-expression/001_heart-E14.5-1_2_expr.txt data/heart-E14.5-gene-expression/002_mart_export-6_mrk_ensids_NM.txt >> out/promoters_heart_only_expressed.txt
+perl scripts/compare_GREAT_genes.pl data/great_output/enhancer_promoters_ubiquitous.txt data/heart-E14.5-gene-expression/001_heart-E14.5-1_2_expr.txt data/heart-E14.5-gene-expression/002_mart_export-6_mrk_ensids_NM.txt >> out/enhancer_promoters_ubiquitous_expressed.txt 
