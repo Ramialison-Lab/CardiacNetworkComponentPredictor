@@ -77,13 +77,13 @@ $ python3 ../../scripts/LD_getSubsets.py H3K27acHeartmm9UE14halfEncodeLicr.bed H
 ### Step 3: Use GREAT database to map the CREs to the associated genes
 The steps for associating CREs to genes using GREAT database (http://great.stanford.edu/great/public-3.0.0/html/) are as below.
 #### GREAT - Screenshot 1 - Upload genomic regions
-![GREAT-Screenshot1](https://raw.githubusercontent.com/nimt0001/CardiacRegulatoryElementsPredictor/main/images/GREAT-screenshot1.png)
+![GREAT-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/GREAT-screenshot1.png)
 
 #### GREAT - Screenshot 2 - View genomic regions-gene association
-![GREAT-Screenshot2](https://raw.githubusercontent.com/nimt0001/CardiacRegulatoryElementsPredictor/main/images/GREAT-screenshot2.png)
+![GREAT-Screenshot2](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/GREAT-screenshot2.png)
 
 #### GREAT - Screenshot 3 - Export genomic regions-gene association as a text file 
-![GREAT-Screenshot3](https://raw.githubusercontent.com/nimt0001/CardiacRegulatoryElementsPredictor/main/images/GREAT-screenshot3.png)
+![GREAT-Screenshot3](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/GREAT-screenshot3.png)
 
 
 ### Step 4 (Perl): Process GREAT output files to produce heart-specific gene candidates
@@ -102,23 +102,23 @@ Input: network_analysis/163_heart_enhancer_promoter_genes.txt
 Output: network_analysis/string_interactions.tsv
 
 #### STRING-db - Screenshot 1 - Input search terms
-![STRING-db-Screenshot1](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/STRING-DB-Screenshot1.png)
+![STRING-db-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/STRING-DB-Screenshot1.png)
 #### STRING-db - Screenshot 2 - Display network
-![STRING-db-Screenshot2](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/STRING-DB-Screenshot2.png)
+![STRING-db-Screenshot2](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/STRING-DB-Screenshot2.png)
 #### STRING-db - Screenshot 3 - Export network data as tsv file
-![STRING-db-Screenshot3](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/STRING-DB-Screenshot3.png)
+![STRING-db-Screenshot3](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/STRING-DB-Screenshot3.png)
 ### Cytoscape (https://cytoscape.org) 
 
 Input: network_analysis/string_interactions.tsv (File -> Import -> Network from file)
 
 #### Cytoscape - Screenshot 1 - Import network from STRING-db tsv file
-![Cytoscape-Screenshot1](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/Cytoscape-Screenshot1.png)
+![Cytoscape-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Cytoscape-Screenshot1.png)
 #### Cytoscape - Screenshot 2 - Select appropriate columns as source and target nodes
-![Cytoscape-Screenshot2](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/Cytoscape-Screenshot2.png)
+![Cytoscape-Screenshot2](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Cytoscape-Screenshot2.png)
 #### Cytoscape - Screenshot 3 - Manual network reformatting
-![Cytoscape-Screenshot3](https://github.com/nimt0001/CardiacRegulatoryElementsPredictor/raw/main/images/Cytoscape-Screenshot3.png)
+![Cytoscape-Screenshot3](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Cytoscape-Screenshot3.png)
 
 ## Visualise organ-specific CREs regions described in this example
 UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A103004082%2D103088558&hgsid=1134659145_DO3gHeFLzuoFSeD6fYgl2L4SMdFT
-![UCSC-Screenshot1](https://raw.githubusercontent.com/nimt0001/CardiacRegulatoryElementsPredictor/main/images/UCSC-Screenshot1.png)
+![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
 
