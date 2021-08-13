@@ -14,7 +14,12 @@ def main():
     #inputDir = sys.argv[1]
     outputDir = sys.argv[len(sys.argv)-1]
     
-    if not outputDir.endswith("/"):
+    #--help option - HN 20210813
+    if outputDir.endswith("--help") or outputDir.endswith("-h"):
+        print('Usage: python3 LD_getSubsets.py [INPUT_FILES] [OPTIONS]... >> [OUTPUT_DIR}\n  Input files: BED file format, each separated by a space\n  Options:\n    --help: Show this message and exit.\n  Output directory:  A directory path where the output BED files are deposited')
+        sys.exit()
+        
+    elif not outputDir.endswith("/"):
         sys.exit("Error: must specify output directory")
     
     files = []
