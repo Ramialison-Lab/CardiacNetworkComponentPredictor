@@ -50,7 +50,8 @@ Options:
 
 Output file:
   TXT (tab-separated) file format, containing the predicted cardiac-specific genes
-  
+
+Note: An example Bash script is provided at CardiacNetworkComponentPredictor/run_script.sh  
 ```
 
 
