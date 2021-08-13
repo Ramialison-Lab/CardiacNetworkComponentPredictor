@@ -15,7 +15,7 @@ To get the source code, please click the "fork" button in the upper-right and th
 ````
 $ git clone <your_fork_of_the_repo> ppds
 $ cd ppds
-$ REPO=https://github.com/nimt0001/CardiacRegulatoryElementsPredictor.git
+$ REPO=https://github.com/Ramialison-Lab/CardiacRegulatoryElementsPredictor.git
 $ git remote add upstream $REPO
 ````
 
