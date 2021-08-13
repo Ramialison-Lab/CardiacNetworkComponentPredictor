@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="de scription" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="bs/favicon.ico">
+
+    <title>Trawler: Results</title>
+
+    <link href="bs/bootstrap.min.css" rel="stylesheet">
+    <link href="bs/jumbotron.css" rel="stylesheet">
+    
+    <script src="bs/jquery.min.js"></script>
+    <script src="bs/bootstrap.min.js"></script>
+    <script src="bs/jquery.dataTables.min.js"></script>
+    <script src="bs/dataTables.bootstrap.min.js"></script>
+    
+    <script src="bs/jquery.flot.min.js"></script>
+    <script src="bs/jquery.flot.axislabels.js"></script>
+
+    <script>
+
+      $(document).ready(function() {
+        $('#idx').DataTable( {
+          "paging":   false,
+          "searching": false,
+          "info": false,
+          "order": [[ 3, "desc" ]]
+        })
+      })
+
+    </script>
+
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a  href="https://twitter.com/ramialison_lab" target="blank">
+          <img class="navbar-brand" src="bs/zfish_og.png" alt="zebrafish_logo" width="80" height="100" align="left" href="https://twitter.com/ramialison_lab" target="blank"></a>
+          <a class="navbar-brand" href="http://trawler.erc.monash.edu.au/">Trawler</a>
+
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="http://trawler.erc.monash.edu.au/">Home</a></li>
+            <li><a href="http://trawler.erc.monash.edu.au/help/">Help</a></li>
+            <li class="active"><a href="index.html">Results</a></li>
+          </ul>
+         <img src="bs/logoARMI-MONASH.png" alt="zebrafish_logo" width="184" height="32" vspace="8" align="right"  usemap="#bannermap">
+         <map name="bannermap">
+          <area shape="rect" coords="0,0,100,32" alt="Monash" href="http://www.monash.edu/" target="blank">
+          <area shape="rect" coords="110,0,184,32" alt="ARMI" href="http://www.armi.org.au/" target="blank">
+        </map>
+        </div><!--/.nav-collapse -->
+
+      </div>
+    </nav>
+
+    </br>
+    <div class="container">
+    
+      <div class="panel panel-default">
+        <div class="panel-heading">
+
+<ul class="nav nav-pills" role="tablist"><li><a data-toggle="tab" href="#udownload"><span>Download</span></a></li> <li class="active"><a data-toggle="tab" href="#trmain"><span>Results</span></a></li> <li><a data-toggle="tab" href="#family_3"><span>family_3</span></a></li><li><a data-toggle="tab" href="#family_2"><span>family_2</span></a></li><li><a data-toggle="tab" href="#family_5"><span>family_5</span></a></li><li><a data-toggle="tab" href="#family_4"><span>family_4</span></a></li><li><a data-toggle="tab" href="#family_1"><span>family_1</span></a></li></ul></div><div class="panel-body"><div class="tab-content"><div class="tab-pane fade" id="udownload">Hover over download links for column descriptions</br></br> <ul><li><a href="input/input.txt" rel="external" target="blank">Trawler input options</a></li> <li><a href="result/0xA0011636FBD811EBAFC7287FBDAD1034.trawler" rel="external" target="blank" title="Motif occurrence in the sample, Motif occurrence in the background, Z score, Motif">Trawler raw data</a></li> <li><a href="result/0xA0011636FBD811EBAFC7287FBDAD1034.trawler_short" rel="external" target="blank" title="Motif occurrence in the sample, Motif occurrence in the background, Z score, Motif">Trawler sorted data</a></li> <li><a href="result/0xA0011636FBD811EBAFC7287FBDAD1034.cluster" rel="external" target="blank" title="Motif, Family name, Z score, Occurrence in the sample, Occurrence in the background, Strand">Clustered motifs</a></li> <li><a href="result/0xA0011636FBD811EBAFC7287FBDAD1034.pwm" rel="external" target="blank">PWMs</a></li> <li><a href="downloads/sample.fa" rel="external" target="blank">Sample FASTA</a></li> <li><a href="downloads/rand_bg.fa" rel="external" target="blank">Background FASTA</a></li> <li><a href="downloads/0xA0011636FBD811EBAFC7287FBDAD1034.zip" rel="external" target="blank">Results archive</a></li></ul></div><div class="tab-pane fade in active" id="trmain"><table class="table table-striped table-hover table-bordered" id="idx"> <thead><tr><th><div title="Motif family">Motif</div></th> <th><div title="Position Weight Matrix">PWM</div></th> <th><div title="JASPAR (Mathelier et al., 2014), UniPROBE (Hume et al., 2015)">Hits against known TFBS databases</div></th> <th><div title="Over-representation score of this motif compared to its background occurrence">Z-score</div></th> <th><div title="Number of species where the motif is conserved">Conservation_score</div></th></tr></thead> <tr><td><a href="#" onclick="$('[href=&quot;#family_5&quot;]').tab('show');">family_5</a></td> <td><a href="#" onclick="$('[href=&quot;#family_5&quot;]').tab('show');"><img alt="images/family_5_all_motif.png" class="small" src="images/family_5_all_motif.png" /></a></td> <td>WWTAAGGC, YTCCCRNNAGGY, </td> <td>22.544434</td> <td>1</td></tr><tr><td><a href="#" onclick="$('[href=&quot;#family_3&quot;]').tab('show');">family_3</a></td> <td><a href="#" onclick="$('[href=&quot;#family_3&quot;]').tab('show');"><img alt="images/family_3_all_motif.png" class="small" src="images/family_3_all_motif.png" /></a></td> <td>SP4, Tcfcp2l1, TBX15, MAZ, NFYC, SP2, Tcfap2a_secondary, ZIC2, THAP1, Bcl6b_secondary, SP3, TBX1, REL, TFDP1, Phd1, BRCA1, Tcfcp2l1, Zfx, TFAP2A, RFX2, ESR2, NFYA, NFIA, Klf4, </td> <td>26.256533</td> <td>1</td></tr><tr><td><a href="#" onclick="$('[href=&quot;#family_2&quot;]').tab('show');">family_2</a></td> <td><a href="#" onclick="$('[href=&quot;#family_2&quot;]').tab('show');"><img alt="images/family_2_all_motif.png" class="small" src="images/family_2_all_motif.png" /></a></td> <td>TBX15, SP1, TFDP1, ZIC2, EGR1, SP3, BRCA1, Bcl6b_secondary, TBX1, MAZ, SP2, ZN148, SRBP2, </td> <td>29.574373</td> <td>1</td></tr><tr><td><a href="#" onclick="$('[href=&quot;#family_1&quot;]').tab('show');">family_1</a></td> <td><a href="#" onclick="$('[href=&quot;#family_1&quot;]').tab('show');"><img alt="images/family_1_all_motif.png" class="small" src="images/family_1_all_motif.png" /></a></td> <td>GGGTGGRR, ARGGGTTAA, </td> <td>29.574373</td> <td>1</td></tr><tr><td><a href="#" onclick="$('[href=&quot;#family_4&quot;]').tab('show');">family_4</a></td> <td><a href="#" onclick="$('[href=&quot;#family_4&quot;]').tab('show');"><img alt="images/family_4_all_motif.png" class="small" src="images/family_4_all_motif.png" /></a></td> <td>WWTAAGGC, </td> <td>22.759851</td> <td>1</td></tr> </table></div><div class="tab-pane fade" id="family_3"></div><div class="tab-pane fade" id="family_2"></div><div class="tab-pane fade" id="family_5"></div><div class="tab-pane fade" id="family_4"></div><div class="tab-pane fade" id="family_1"></div><script>$("#family_3").load("family_3.html", function() {$('#family_3Tf').DataTable({"order": [[ 8, "asc" ]], "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]});$('#family_3Occ').DataTable( {"lengthMenu": [[10, 50, 100, -1], [10, 50, 100, "All"]]} );});$("#family_2").load("family_2.html", function() {$('#family_2Tf').DataTable({"order": [[ 8, "asc" ]], "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]});$('#family_2Occ').DataTable( {"lengthMenu": [[10, 50, 100, -1], [10, 50, 100, "All"]]} );});$("#family_5").load("family_5.html", function() {$('#family_5Tf').DataTable({"order": [[ 8, "asc" ]], "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]});$('#family_5Occ').DataTable( {"lengthMenu": [[10, 50, 100, -1], [10, 50, 100, "All"]]} );});$("#family_4").load("family_4.html", function() {$('#family_4Tf').DataTable({"order": [[ 8, "asc" ]], "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]});$('#family_4Occ').DataTable( {"lengthMenu": [[10, 50, 100, -1], [10, 50, 100, "All"]]} );});$("#family_1").load("family_1.html", function() {$('#family_1Tf').DataTable({"order": [[ 8, "asc" ]], "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]});$('#family_1Occ').DataTable( {"lengthMenu": [[10, 50, 100, -1], [10, 50, 100, "All"]]} );});</script></div></div></div></div></div>
+</body>
+</html>

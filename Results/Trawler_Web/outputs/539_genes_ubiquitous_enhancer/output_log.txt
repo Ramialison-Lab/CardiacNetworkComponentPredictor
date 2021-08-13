@@ -1,0 +1,83 @@
+########################################
+  Trawler standalone 2.0
+########################################
+
+## Running trawler.pl
+  ==========
+  Reading configuration and pipeline settings...
+  ==========
+
+  ==========
+  Processing bed file and generating random background...
+  ==========
+
+
+Running generate_random_background.pl
+mean length:5237
+3734180	8
+Distribution:
+-5000000_-49999 26
+-49999_-4999 86
+-4999_0 222
+0_4999 239
+4999_49999 118
+49999_5000000 22
+
+## Running bedtofasta.pl
+Converting sample_merge_sort.bed to fasta format
+run time: 18
+
+## Running bedtofasta.pl
+Converting rand_bg.bed to fasta format
+run time: 17
+
+## Running pipeline_trawler_01_som.pl
+  ==========
+  Running Trawler...
+  ==========
+
+performing SCC clustering
+
+This is the end.
+
+## Running pipeline_trawler_02_phastcons.pl
+extracting phastcon scores for chr1
+extracting phastcon scores for chr10
+extracting phastcon scores for chr11
+extracting phastcon scores for chr12
+extracting phastcon scores for chr13
+extracting phastcon scores for chr14
+extracting phastcon scores for chr15
+extracting phastcon scores for chr16
+extracting phastcon scores for chr17
+extracting phastcon scores for chr18
+extracting phastcon scores for chr19
+extracting phastcon scores for chr2
+extracting phastcon scores for chr3
+extracting phastcon scores for chr4
+extracting phastcon scores for chr5
+extracting phastcon scores for chr6
+extracting phastcon scores for chr7
+extracting phastcon scores for chr8
+extracting phastcon scores for chr9
+extracting phastcon scores for chrX
+
+## Running pipeline_trawler_03.pl
+  ==========
+  Creating HTML output...
+  ==========
+
+## Job's done !
+  ==========
+trawler.pl => 19 seconds
+pipeline_trawler_01_som.pl => 9 minutes, 52 seconds
+pipeline_trawler_02.pl => 7 minutes, 42 seconds
+pipeline_trawler_03.pl => 3 seconds
+Elapsed time => 17 minutes, 56 seconds
+
+  ----------
+  Your JobID is 0xA0011636FBD811EBAFC7287FBDAD1034
+  Output files have been stored in /public_html/0xA0011636FBD811EBAFC7287FBDAD1034
+  FASTA files and generated background can be found in 0xA0011636FBD811EBAFC7287FBDAD1034/downloads
+  ==========
+

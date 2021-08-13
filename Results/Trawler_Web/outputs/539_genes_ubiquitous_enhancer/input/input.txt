@@ -1,0 +1,38 @@
+$ trawler.pl -sample /mnt/public_html/0xA0011636FBD811EBAFC7287FBDAD1034/539genes_ubiq_enhancer.bed -org mm9 -strand double -mlength 8 -overlap 70 -class vertebrates -dir_id 0xA0011636FBD811EBAFC7287FBDAD1034 -phastcon 1 -masked 1
+
+command line options
+====================
+
+sample=/mnt/public_html/0xA0011636FBD811EBAFC7287FBDAD1034/539genes_ubiq_enhancer.bed
+org=mm9
+strand=double
+mlength=8
+overlap=70
+class=vertebrates
+dir_id=0xA0011636FBD811EBAFC7287FBDAD1034
+
+default options
+===============
+
+[motif discovery]
+occurrence=10
+wildcard=2
+
+[clustering]
+motif_number=200
+nb_of_cluster=0
+
+[visualization]
+directory=/mnt/public_html/0xA0011636FBD811EBAFC7287FBDAD1034
+xtralen=0
+clustering=1
+web=1
+
+pipeline
+========
+
+trawler.pl => 19 seconds
+pipeline_trawler_01_som.pl => 9 minutes, 52 seconds
+pipeline_trawler_02.pl => 7 minutes, 42 seconds
+pipeline_trawler_03.pl => 3 seconds
+Elapsed time => 17 minutes, 56 seconds
