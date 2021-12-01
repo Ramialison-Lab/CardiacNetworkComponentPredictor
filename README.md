@@ -120,6 +120,6 @@ Input: network_analysis/string_interactions.tsv (File -> Import -> Network from 
 ![Cytoscape-Screenshot3](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Cytoscape-Screenshot3.png)
 
 ## Visualise organ-specific CREs regions described in this example
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A103004082%2D103088558&hgsid=1134659145_DO3gHeFLzuoFSeD6fYgl2L4SMdFT
+UCSC Genome Browser custom track: http://genome.ucsc.edu/s/nimt0001/CardiacNetworkComponentPredictor
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
 
