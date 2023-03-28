@@ -64,7 +64,7 @@ Note: An example Bash script is provided at CardiacNetworkComponentPredictor/run
 
 
 ### Step 2 (Python) - Calculating all the CREs between the organs and their overlaps
- - BED input file format: chr# <tab> BEGIN <tab> END <tab> SAMPLENAME_INDEX
+ - Input BED file format: chr# <tab> BEGIN <tab> END <tab> SAMPLENAME_INDEX
  - Example: chr10 <tab> 77210084 <tab> 77210090 <tab> H3K27acHeart_12
 
 ````
