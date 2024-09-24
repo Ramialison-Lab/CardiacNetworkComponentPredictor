@@ -57,9 +57,16 @@ Note: An example Bash script is provided at CardiacNetworkComponentPredictor/run
 
 
 ## An example execution of the pipeline
+
+
+### Step 1 - Define the searching range using known enhancers
+#### Schematic protocol to define the enhancer searching zone using control Enhancer, CtrlE2. The genome and assembly of control, CtrlE2 was converted into GRch38 via the UCSC genome browser. The coordinate was input and “view”, “in other genome” were selected.  “genome” and “assembly“ were submitted. The control enhancer was assessed to determine if they fell within the genomic region between the neighboring genes using the EnsEMBL genome browser. “Region in detail” show where the CtrlE2 is positioned.
+![Figure1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Figure1.png)
+
+
 ### Step 1 - Preparing datasets for organ-specific CREs
 #### Datasets used in this study 
-![Datasets-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Datasets-Screenshot1.png)
+![Datasets-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Datasets-Screenshot1a.jpg)
 
 
 
